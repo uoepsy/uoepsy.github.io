@@ -1,0 +1,63 @@
+---
+title: "Take-everywhere write-up checklist"
+subtitle: "Department of Psychology, The University of Edinburgh"
+date: "Academic year 2020-2021"
+output:
+  pdf_document:
+    latex_engine: xelatex
+urlcolor: blue
+header-includes:
+  - \usepackage{fontspec}
+  - \setmainfont{Roboto}
+---
+
+---
+
+The aim in writing a statistical report should be that a reader is able to more or less replicate your analyses **without** referring to your analysis code. This requires detailing all of the steps you took in conducting the analysis.  
+Given your R code and the data, someone else should be able to **perfectly** replicate your analysis, and this should match what you present in your report. The benefit of using RMarkdown is that the code and the report are bundled together, and you can pull results *directly* from the code. 
+
+---
+
+# Think 
+### (What do you know? What do you hope to learn? What did you learn during the exploratory analysis?)  
+
+1. Describe the study design, the data collection strategy, etc.   
+ 
+2. Describe the data  
+    - How many observational units? 
+    - Are there any observations that have been excluded based on pre-defined criteria? How/why, and how many? 
+    - Describe and visualise the variables of interest. How are they scored? have they been transformed at all? 
+    - Describe and visualise relationships between variables. Report covariances/correlations. 
+ 
+3. Describe the analytical approach  
+    - What type of statistical analysis do you use to answer the research question? (e.g., t-test, simple linear regression, multiple linear regression) 
+    - Describe the model/analysis structure 
+    - What is your outcome variable? What is its type? 
+    - What are your predictors? What are their types? 
+    - Any other specifics?  
+ 
+4. Planned analysis vs actual analysis  
+    - Was there anything you had to do differently than planned during the analysis? Did the modelling highlight issues in your data? 
+    - Did you have to do anything (e.g., transform any variables, exclude any observations) in order to meet assumptions? 
+
+\newpage 
+
+# Show 
+### (Show the mechanics and visualisations which will support your conclusions) 
+
+5. Present and describe the model or test which you deemed best to answer your question. 
+ 
+6. Are the assumptions and conditions of your final test or model satisfied? *For the final model (the one you report results from), were all assumptions met? (Hopefully yes, or there is more work to do...). Include evidence (tests or plots).* 
+ 
+7. Report your test or model results 
+    - Provide a table of results if applicable (for regression tables, try `tab_model()` from the **sjPlot** package).
+    - Provide plots if applicable.  
+    
+# Tell 
+### (Communicate your findings) 
+
+8. Interpret your results in the context of your research question. 
+    - What do your results suggest about your research question? 
+    - Make direct links from hypotheses to models (which bit is testing hypothesis) 
+    - Be specific - which statistic did you use/what did the statistical test say? Comment on effect sizes. 
+    - Make sure to include measurement units where applicable. 

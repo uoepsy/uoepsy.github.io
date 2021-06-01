@@ -1,0 +1,130 @@
+---
+title: "Lab Test Instructions"
+author: "DAPR1 Team"
+output:
+  html_document:
+    theme: flatly
+---
+
+**Click on a screenshot to zoom in, then click on it to minimise it**
+
+
+
+# Instructions
+
+1. **Download the .Rmd document from Learn. (e.g. dapr1_2021_labtest1.Rmd)**  
+```{r echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0001.jpg")
+cat("   ")
+knitr::include_graphics("images-labtest2/0002.jpg")
+```
+
+2. **(if you are using the RStudio Server) upload the .Rmd file to your project.**  
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0003.jpg") 
+cat("   ")
+knitr::include_graphics("images-labtest2/0004.jpg")
+```
+
+3. **Open the .Rmd**  
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0005.jpg") 
+cat("   ")
+knitr::include_graphics("images-labtest2/0006.jpg")
+```
+
+4. **READ THE INSTRUCTIONS**  
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0007.jpg")
+```
+
+5. **Add your exam number at the relevant places at the top of the document**  
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0008.jpg") 
+cat("   ")
+knitr::include_graphics("images-labtest2/0009.jpg")
+```
+
+6. **Rename the .Rmd file with your exam number**  
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0010.jpg") 
+cat("   ")
+knitr::include_graphics("images-labtest2/0011.jpg")
+```
+
+7. **Run the code-chunk to load the data AND read the instructions in the document.** 
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0012.jpg")
+```
+ 
+8. **Complete the questions using R code**   
+    - All code should be within code chunks and these should be included in the submitted file. 
+    - For each question, your answer should be saved to a named object. The name of the object will be given within each chunk.
+    - The last line within each code chunk should print the result for that question.  
+    
+    ```{r results="asis",echo=FALSE, out.width="20%"}
+    knitr::include_graphics("images-labtest2/0014.jpg")
+    ```
+
+9. **Check that the .Rmd successfully 'knits' to .html, and that everything is displaying correctly**  
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0015.jpg")
+cat("  ")
+knitr::include_graphics("images-labtest2/0015a.jpg")
+```
+
+<br>
+
+10. **MAKE SURE YOU SAVE YOUR FILE!**  
+
+<br>
+
+11. **(If you are using the RStudio Server) download your completed .Rmd file to your computer**  
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/0016.jpg")
+```
+  
+12. **Go to the assessments page, review the own-work declaration, and follow instructions to upload your completed .Rmd file to Turnitin**   
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest2/lti10.png")
+```
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  
+  <style>
+  .zoomDiv {
+    opacity: 0;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 50;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 50px #888888;
+    max-height:100%; 
+    overflow: scroll;
+  }
+
+.zoomImg {
+  width: 100%;
+}
+</style>
+  
+  
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $('body').prepend("<div class=\"zoomDiv\"><img src=\"\" class=\"zoomImg\"></div>");
+    // onClick function for all plots (img's)
+    $('img:not(.zoomImg)').click(function() {
+      $('.zoomImg').attr('src', $(this).attr('src'));
+      $('.zoomDiv').css({opacity: '1', width: '60%'});
+    });
+    // onClick function for zoomImg
+    $('img.zoomImg').click(function() {
+      $('.zoomDiv').css({opacity: '0', width: '0%'});
+    });
+  });
+</script>
+
+
+

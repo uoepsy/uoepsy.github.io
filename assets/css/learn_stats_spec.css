@@ -1,0 +1,105 @@
+/*  */
+/* GRID CONTAINER */
+/*  */
+
+.grid-container { margin: auto; min-height: 100px; max-width: 1000px}
+
+.grid-container a, .grid-container p, .grid-container h1, .grid-container h2, .grid-container h3, .grid-container h4{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: repeat(4, minmax(120px, auto));
+  gap: 15px 15px;
+  grid-template-areas:  "weekly weekly weekly discuss discuss discuss" "contacts contacts contacts contacts contacts contacts" "contacts contacts contacts contacts contacts contacts" "announcements announcements announcements assessment assessment assessment" "info drps timetabling library havesay faq";
+}
+
+/*  */
+/* COLOURS OF GRID AREAS */
+/*  */
+
+
+.contacts { grid-area: contacts;
+background-color: #FEFEEE; }
+
+.weekly { grid-area: weekly;
+background-color: #44AF69; }
+.discuss { grid-area: discuss;
+background-color: #c569a5;}
+
+.assessment { grid-area: assessment;
+background-color: #FCAB10;}
+.announcements { grid-area: announcements;
+background-color: #FA5D5F}
+
+.info { grid-area: info;
+background-color: #83BAB4;}
+.havesay { grid-area: havesay;
+background-color: #83BAB4;}
+.library{ grid-area: library;
+background-color: #83BAB4;}
+.timetabling { grid-area: timetabling;
+background-color: #83BAB4;}
+.faq { grid-area: faq;
+background-color: #83BAB4;}
+.drps { grid-area: drps;
+background-color: #83BAB4;}
+
+
+/*  */
+/* GRID AREA CONTENT */
+/*  */
+/* alignment, colors font size etc */
+.weekly, .discuss, .announcements, .info, .havesay, .library, .assessment, .timetabling, .faq, .drps{
+  display: inline-flex;
+  align-items: center;
+  text-align: center;
+  justify-content:center;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 22px;
+}
+/* ICONS  */
+.weekly i, .discuss i, .announcements i, .info i, .havesay i, .library i, .assessment i, .timetabling i, .faq i, .drps1 i{
+    margin: 10px;
+}
+
+/*  */
+/* CONTACT BOX */
+/* this has two columns (.cont-col) of text */
+.contacts{
+  text-align: left;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.cont-col{
+    width: 40%;
+    display:inline-block;
+    margin: 15px;
+    vertical-align: top;
+}
+
+
+/* FOR MOBILE DEVICES */
+/* 1 column for mobile */
+
+@media only screen and (max-width: 736px){
+  .grid-container {
+    width: auto;
+    padding-left: 2.5% !important;
+    padding-right: 2.5% !important;
+    grid-template-columns: 1fr 1fr !important;
+    grid-auto-rows: min-content !important;
+    gap: 7px 7px !important;
+    grid-template-areas: "contacts contacts" "contacts contacts" "weekly weekly" "discuss discuss" "announcements announcements" "assessment assessment" "info drps" "timetabling library" "havesay faq" !important;
+  }
+  .cont-col{
+    width: auto;
+    display:block !important;
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+  }
+}

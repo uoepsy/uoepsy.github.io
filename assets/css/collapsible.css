@@ -1,0 +1,40 @@
+.collapsible {
+    background-color: #5679b0;
+    color: white !important;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 0;
+    font-size: 22px;
+    text-align: center;
+    display: block;
+    outline: none;
+    max-width: 100%;
+  }
+
+.active, .collapsible:hover {
+  background-color: #1c3d70;
+  color: white;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  margin-top: 5px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.resourcecols1, .resourcecols2{
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 15px;
+}
+
+
+@media screen and (max-width: 640px) {
+		.resourcecols1, .resourcols2{
+		  width: 100%;
+		}
+}

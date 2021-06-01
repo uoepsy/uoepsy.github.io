@@ -1,0 +1,97 @@
+---
+title: "Sharing Projects on rstudio.ppls.ed.ac.uk"
+author: uoepsy.github.io
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: flatly
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<br><br>  
+
+1. In the top right of RStudio you can control your projects.  
+In the project that you want to share, click on the project name (top right), and in the drop-down menu, select "Share Project".  
+  
+2. Select the user (e.g., a tutor who is providing assistance) you wish to share your project with. 
+to do this you will need their University UserName (UUN).  
+
+<center><video width="640" height="480" controls>
+  <source src="./rserver_share.mp4" type="video/mp4">
+</video></center>
+
+<br><br>
+
+3. You will be able to see when the other user joins you, as you will see their name up in the top right.
+  - You can follow their cursor (and they can follow yours). 
+
+<center><video width="640" height="480" controls>
+  <source src="./rserver_collab.mp4" type="video/mp4">
+</video></center>
+
+
+<br><br>
+
+Notes:  
+
+- To collaboratively edit a file, it needs to be a file which is saved in your project. So if you're working on a script you have never saved ("Untitled1.Rmd".. etc), your collaborator won't be able to see it.  
+- You are collaborating on the **editor**, but **not** on the R session. This means that you each have *separate* consoles, and separate outputs underneath code-chunks in an .Rmd (and you can't see each others). You can still discuss your respective outputs (and you can ensure they are identical by using `set.seed(<insert random number here>)` to make any random sampling the same for both of you).  
+- If someone shares a project with you, you can find it in the drop-down list of your projects. 
+
+
+<br><br>
+
+Here are the usernames for the tutors and teaching coordinators: 
+<br><br>
+
+|  UUN|  Name|  Role| Courses |
+|--:|--:|--:|--:|
+|  jking34| Josiah King |  Senior Teaching Coordinator| All |
+|  unoe | Umberto Noè |  Senior Teaching Coordinator| All |
+| apooley	| Abby Pooley | Tutor | DAPR1, DAPR2 |
+| alorson	| Alex Lorson | Tutor | RMS2 |
+| bzhao2 |	Bonan Zhao | Tutor | USMR |
+| bblankin | Brittany Blankinship | Tutor | DAPR2, MSMR |
+| chelin |	Carolane Helin | Tutor | DAPR1, RMS2 |
+| dlopezl	| Diana Guadalupe López Lugo | Tutor | DAPR1 |
+| ewaterst |	Emma Waterston | Tutor | DAPR1, DAPR2 |
+| eramosb	| Espe Ramos Badaya | Tutor | DAPR2, MSMR |
+| jfranken |	Jan-Philipp Fränken | Tutor | DAPR1 (sem1), RMS2, USMR |
+| lrivera	| Karim Rivera Lares | Tutor | USMR, MSMR |
+| s1752647 |	Loris Naspi | Tutor | DAPR1 (sem1), RMS2 |
+| lbevacqu	| Luca Bevacqua | Tutor | USMR, MSMR |
+| lspeyer	| Lydia Speyer | Tutor | DAPR1 (sem2), DAPR2, USMR |
+| mtheocha	| Marios Theocharopoulos | Tutor | RMS2 |
+| tchuong	| Melisa Chuong | Tutor | RMS2 |
+| mlewins	| Melissa Lewins | Tutor | DAPR1, DAPR2 | 
+| ntheodo	| Nikos Theodoropoulos | Tutor | USMR |
+| rsacripa	| Riccardo Sacripante | Tutor | DAPR2 |
+| rzhu	| Sophie Zhu | Tutor | DAPR1 | 
+| swagner3	| Svenja Wagner | Tutor | DAPR2, RMS2 |
+| tpatel | Tanvi Patel | Tutor | DAPR2 (sem2), RMS2 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
