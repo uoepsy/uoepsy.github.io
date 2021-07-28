@@ -25,16 +25,36 @@
   background-color: white;
 }
 
-.resourcecols1, .resourcecols2{
-  width: 45%;
+.shortcoursecol, .resourcecols{
   display: inline-block;
   vertical-align: top;
   margin: 15px;
 }
+.shortcoursecol{
+  width: 55%;
+}
+.resourcecols{
+  width: 35%;
+}
+
+
+.scitem {
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.scitem:hover{
+  background-color: #f0f0f0;
+  box-shadow: 0 5px 15px #f2849e;
+}
+
+
 
 
 @media screen and (max-width: 640px) {
-		.resourcecols1, .resourcols2{
+		.shortcoursecol, .resourcecols{
 		  width: 100%;
 		}
 }
