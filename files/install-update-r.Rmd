@@ -1,0 +1,202 @@
+---
+title: "Updating R & Packages"
+author: "uoepsy stats team"
+output:
+  html_document:
+    theme: readable
+    toc: true
+    toc_depth: 1
+---
+
+
+R is the name of both:
+
+- the R programming language, i.e. the language you use to tell the PC what computations to perform; and
+- the R interpreter, which actually executes the computations written in the R language.
+
+RStudio is a user-friendly interface around R that makes the programming experience much nicer. It bundles together 
+
+- a file editor panel, 
+- a console panel with the R interpreter, 
+- an environment panel showing all the objects you have created
+- a files and plots panel to see your PC files and the plots you create.
+
+
+The programming language R comes with built-in functionality, like computing the square root with the `sqrt()` function. Over the years, R users have created lots of additional functionalities that is available on demand. If you particular application requires extra functionality not available with the basic R installation, you can add it by *installing packages*. A package is an additional bit of functionality and it needs to be installed only once to bring it from the web to your own R installation. However, it is also important to keep packages updated once or twice a year.
+
+
+This document explains how to 
+
+a) install R and RStudio, if you never used them before; 
+b) update R and RStudio, if you have old versions;
+c) how to update your R packages.
+
+
+---
+
+
+# A. Installing R and RStudio
+
+## A.1 Installing R {.tabset .tabset-fade .tabset-pills}
+
+### Windows PC
+
+#### Uninstall any previous installations
+
+If you have a previous R installation, please uninstall the following software from your PC if you have it:
+
+- R
+- Rtools
+
+#### Install R
+
+Go to <https://cran.r-project.org/bin/windows/base/> and click `Download R << number >> for Windows`.
+
+Open the installer and follow the instructions.
+
+#### Install RTools
+
+Go to <https://cran.r-project.org/bin/windows/Rtools/> and under the section `Installing Rtools`, download the version that matches your PC: either Windows 64-bit (most likely) or Windows 32-bit (if your PC is very old).
+
+Open the installer and follow the instructions.
+
+
+
+### Apple macOS PC
+
+#### Uninstall any previous installations
+
+If you have a previous R installation, please go to the Applications folder in your Finder window and move the following applications to the Bin:
+
+- R
+- XQuartz
+
+
+#### Install R
+
+Check which Apple PC you have. On the top-left of your screen click the Apple logo, click About This Mac, note what the Processor line says. If it has the word "Intel", you want to follow 1 below, and 2 otherwise.
+
+Go to <https://cran.r-project.org/bin/macosx/> and download one of these: 
+
+1. `R-4.1.1.pkg (notarized and signed)` if you have an Intel-based macOS PC
+2. `R-4.1.1-arm64.pkg (notarized and signed)` if you have an Apple silicon arm64 macOS PC.
+
+Open the installer and follow the instructions.
+
+
+#### Install XQuartz
+
+Download XQuartz: [https://xquartz.macosforge.org/](https://xquartz.macosforge.org/). 
+
+Open the installer and follow the instructions.
+
+
+
+### Chromebooks
+
+You cannot install R on Chromebooks. Go directly to Installing RStudio to follow the instructions.
+
+
+
+## A.2 Installing RStudio {.tabset .tabset-fade .tabset-pills}
+
+### Windows PC {#install-win}
+
+Go to <https://www.rstudio.com/products/rstudio/download/#download> and click the big blue download button.
+
+Open the installer and follow the instructions.
+
+### Apple macOS PC {#install-mac}
+
+Go to <https://www.rstudio.com/products/rstudio/download/#download> and click the big blue download button.
+
+Open the installer and follow the instructions.
+
+
+### Chromebooks {#install-chrome}
+
+1. Log in to EASE using your university UUN and password
+
+2. Set your RStudio password [here](https://rstudio.ppls.ed.ac.uk/setpass.php), the username will be the same as your UUN (make sure you type your UUN correctly!)
+
+3. If you believe that your username has not been granted access, please fill out the form [here](https://forms.office.com/r/Pc5aqhyveE) and we will get back to you as soon as we can.
+
+Go to <https://rstudio.ppls.ed.ac.uk> to log in to the server using your UUN and the password you just set.
+
+
+## {-}
+
+
+---
+
+
+# B. Updating R and RStudio
+
+If your R version or packages are old, you might get errors or find that the code required to run some examples is different from the one provided.
+
+Recall that R is the underlying programming language, while RStudio is just a wrapper around R providing a nicer user interface (text editor, file explorer and graphical window). Updating RStudio (the interface) will not update the R programming language which runs your code.  
+
+## B.1 Check which R version you have
+
+Check that your R version is up-to-date by typing into the R console:
+
+```
+version
+```
+
+After pressing Enter, you should see  something like this:
+
+```
+platform       << this will be different for each of you >>     
+arch           << this will be different for each of you >>                  
+os             << this will be different for each of you >>     
+system         << this will be different for each of you >>        
+status                                     
+major          4                           
+minor          1.1                         
+<< and more lines which you can ignore... >>
+```
+
+Please check here: https://www.r-project.org/ to see what the most recent version is. If you have a different number for "major" than the most recent, it may well be time for an update.  
+
+
+## 2. Update R {.tabset .tabset-fade .tabset-pills}
+
+### Windows PC
+
+Open RStudio, and type the following in the R console. Press Enter to run the code.
+
+```{r eval=FALSE}
+install.packages("installr")
+installr::updateR()
+```
+
+
+### Apple macOS PC
+
+To update R, you need to remove any old R installations and reinstall R. Follow the instructions from [A.1](#install-mac).
+
+
+### Chromebooks
+
+You cannot install or update R on your Chromebook. You need to access R via the RStudio Server provided by our school, and the updates are managed by the school, you don't need to do anything.
+
+You still may want to update packages, though. Check [section C](#update-pkgs) for that.
+
+## {-}
+
+
+---
+
+
+# C. Updating R packages {#update-pkgs}
+
+Open RStudio. In the R console, type the following and press Enter:
+
+```{r eval=FALSE}
+options(pkgType = "binary")
+update.packages(ask = FALSE)
+```
+
+<br>
+
