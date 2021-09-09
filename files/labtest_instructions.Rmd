@@ -12,81 +12,81 @@ output:
 
 # Instructions
 
-1. **Download the .Rmd document from Learn. (e.g. dapr1_2021_labtest1.Rmd)**  
+1. **Download the .Rmd document from Learn.**  
 ```{r echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0001.jpg")
+knitr::include_graphics("images-labtest/0001.jpg")
 cat("   ")
-knitr::include_graphics("images-labtest2/0002.jpg")
+knitr::include_graphics("images-labtest/0002.jpg")
 ```
 
-2. **(if you are using the RStudio Server) upload the .Rmd file to your project.**  
+1. **(If you are using the RStudio Server) upload the .Rmd file to your project.**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0003.jpg") 
+knitr::include_graphics("images-labtest/0003.jpg") 
 cat("   ")
-knitr::include_graphics("images-labtest2/0004.jpg")
+knitr::include_graphics("images-labtest/0004.jpg")
 ```
 
-3. **Open the .Rmd**  
+1. **Open the .Rmd**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0005.jpg") 
+knitr::include_graphics("images-labtest/0005.jpg") 
 cat("   ")
-knitr::include_graphics("images-labtest2/0006.jpg")
+knitr::include_graphics("images-labtest/0006.jpg")
 ```
 
-4. **READ THE INSTRUCTIONS**  
+1. **Add your exam number at the relevant places at the top of the document**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0007.jpg")
-```
-
-5. **Add your exam number at the relevant places at the top of the document**  
-```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0008.jpg") 
+knitr::include_graphics("images-labtest/0008.jpg") 
 cat("   ")
-knitr::include_graphics("images-labtest2/0009.jpg")
+knitr::include_graphics("images-labtest/0009.jpg")
 ```
 
-6. **Rename the .Rmd file with your exam number**  
+1. **Rename the .Rmd file with your exam number**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0010.jpg") 
+knitr::include_graphics("images-labtest/0010.jpg") 
 cat("   ")
-knitr::include_graphics("images-labtest2/0011.jpg")
+knitr::include_graphics("images-labtest/0011.jpg")
 ```
 
-7. **Run the code-chunk to load the data AND read the instructions in the document.** 
+1. **READ THE INSTRUCTIONS**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0012.jpg")
+knitr::include_graphics("images-labtest/0007.jpg")
+```
+
+1. **If present, run the code-chunk that loads the data without editing it.** 
+```{r results="asis",echo=FALSE, out.width="20%"}
+knitr::include_graphics("images-labtest/0012.jpg")
 ```
  
-8. **Complete the questions using R code**   
-    - All code should be within code chunks and these should be included in the submitted file. 
+1. **Complete the questions using R code**   
+    - All code should be within code chunks and these should be included and visible in the submitted file. 
     - For each question, your answer should be saved to a named object. The name of the object will be given within each chunk.
     - The last line within each code chunk should print the result for that question.  
     
     ```{r results="asis",echo=FALSE, out.width="20%"}
-    knitr::include_graphics("images-labtest2/0014.jpg")
+    knitr::include_graphics("images-labtest/0014.jpg")
     ```
 
-9. **Check that the .Rmd successfully 'knits' to .html, and that everything is displaying correctly**  
+1. **Check that the .Rmd successfully 'knits' to .html, and that everything is displaying correctly**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0015.jpg")
+knitr::include_graphics("images-labtest/0015.jpg")
 cat("  ")
-knitr::include_graphics("images-labtest2/0015a.jpg")
+knitr::include_graphics("images-labtest/0015a.jpg")
+cat("<br><br>")
 ```
 
-<br>
 
-10. **MAKE SURE YOU SAVE YOUR FILE!**  
+1. **MAKE SURE YOU SAVE YOUR FILE!**  <br><br>
 
-<br>
 
-11. **(If you are using the RStudio Server) download your completed .Rmd file to your computer**  
+
+1. **(If you are using the RStudio Server) download your completed .Rmd file to your computer**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/0016.jpg")
+knitr::include_graphics("images-labtest/0016.jpg")
 ```
   
-12. **Go to the assessments page, review the own-work declaration, and follow instructions to upload your completed .Rmd file to Turnitin**   
+1. **Go to the assessments page, review the own-work declaration, and follow instructions to upload your completed .Rmd file to Turnitin**   
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest2/lti10.png")
+knitr::include_graphics("images-labtest/lti10.png")
 ```
 
 
