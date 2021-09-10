@@ -4,6 +4,7 @@ author: "DAPR1 Team"
 output:
   html_document:
     theme: flatly
+    self_contained: true
 ---
 
 **Click on a screenshot to zoom in, then click on it to minimise it**
@@ -33,7 +34,7 @@ cat("   ")
 knitr::include_graphics("images-labtest/0006.jpg")
 ```
 
-1. **Add your exam number at the relevant places at the top of the document**  
+1. **Add your exam number (only numbers, no letters) at the relevant places at the top of the document**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
 knitr::include_graphics("images-labtest/0008.jpg") 
 cat("   ")
@@ -47,24 +48,20 @@ cat("   ")
 knitr::include_graphics("images-labtest/0011.jpg")
 ```
 
-1. **READ THE INSTRUCTIONS**  
+1. **Read and follow the extra instructions in the .Rmd file**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
 knitr::include_graphics("images-labtest/0007.jpg")
 ```
 
-1. **If present, run the code-chunk that loads the data without editing it.** 
+1. **Answer the questions**<br>Write your answer in a new line underneath the text "Answer below:"  
 ```{r results="asis",echo=FALSE, out.width="20%"}
-knitr::include_graphics("images-labtest/0012.jpg")
+knitr::include_graphics("images-labtest/0014.jpg")
 ```
- 
-1. **Complete the questions using R code**   
-    - All code should be within code chunks and these should be included and visible in the submitted file. 
+
+    - All R code should be within code chunks and these should be included and visible in the submitted file. 
     - For each question, your answer should be saved to a named object. The name of the object will be given within each chunk.
     - The last line within each code chunk should print the result for that question.  
-    
-    ```{r results="asis",echo=FALSE, out.width="20%"}
-    knitr::include_graphics("images-labtest/0014.jpg")
-    ```
+  <br>
 
 1. **Check that the .Rmd successfully 'knits' to .html, and that everything is displaying correctly**  
 ```{r results="asis",echo=FALSE, out.width="20%"}
@@ -75,7 +72,7 @@ cat("<br><br>")
 ```
 
 
-1. **MAKE SURE YOU SAVE YOUR FILE!**  <br><br>
+1. **Make sure you save your file!**  <br><br>
 
 
 
@@ -88,6 +85,16 @@ knitr::include_graphics("images-labtest/0016.jpg")
 ```{r results="asis",echo=FALSE, out.width="20%"}
 knitr::include_graphics("images-labtest/lti10.png")
 ```
+
+
+1. **Only submit one file: the .Rmd file.**  
+    
+    - Do NOT submit html, pdf, word, or any other type of file. If you submit a file which has an extension different from .Rmd, you will receive a grade of 0.
+
+<!-- 1. **If present, run the code-chunk that loads the data without editing it.**   -->
+<!-- ```{r results="asis",echo=FALSE, out.width="20%"} -->
+<!-- knitr::include_graphics("images-labtest/0012.jpg") -->
+<!-- ``` -->
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
