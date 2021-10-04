@@ -2721,6 +2721,10 @@ input, select, textarea {
 			.tiles article.style4 > .image:before {
 				background-color: #ECB415;
 			}
+			
+			.tiles article.style7 > .image:before {
+				background-color: #44ada3;
+			}
 
 			.tiles article.style5 > .image:before {
 				background-color: #9B33CB;
