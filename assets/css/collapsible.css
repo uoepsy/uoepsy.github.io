@@ -1,13 +1,13 @@
-.shortcoursecol, .resourcecols{
+.halfcol{
   display: inline-block;
   vertical-align: top;
   margin: 15px;
-}
-.shortcoursecol{
   width: 45%;
 }
-.resourcecols{
-  width: 45%;
+.fullcol{
+  width: 95%;
+  vertical-align: top;
+  margin: 15px;
 }
 
 
@@ -45,7 +45,7 @@
 
 
 @media screen and (max-width: 640px) {
-		.shortcoursecol, .resourcecols{
+		.fullcol, .halfcol{
 		  width: 100%;
 		}
 }
