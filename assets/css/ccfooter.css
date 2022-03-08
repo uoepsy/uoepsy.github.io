@@ -2,7 +2,6 @@
    background-image: url(https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png);
    background-repeat: no-repeat;
    background-size: 130px 30px;
-   font-size: .6em;
    height: 30px;
    position: fixed;
    left: 0;
@@ -19,4 +18,6 @@
 .ccfooter::after{
     content: "This work is open source under the conditions that (a) the material is clearly referenced if used for any derivative work, and (b) any derivative work must be open source too.\A Please get in touch with ug.ppls.stats@ed.ac.uk for further clarifications";
     white-space: pre-wrap;
+    font-size: .5em;
+    vertical-align: middle; 
 }
