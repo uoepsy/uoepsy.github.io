@@ -3,7 +3,6 @@
    background-repeat: no-repeat;
    background-size: 130px 30px;
    font-size: .6em;
-   overflow-wrap: break-word;
    height: 30px;
    position: fixed;
    left: 0;
@@ -16,4 +15,8 @@
    margin-bottom: 10px;
    text-align: left;
    z-index; -1;
+}
+.ccfooter::after{
+    content: "This work is open source under the conditions that (a) the material is clearly referenced if used for any derivative work, and (b) any derivative work must be open source too.\A Please get in touch with ug.ppls.stats@ed.ac.uk for further clarifications";
+    white-space: pre-wrap;
 }
