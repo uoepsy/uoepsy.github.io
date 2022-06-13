@@ -8,7 +8,7 @@
    bottom: 0;
    width: 100%;
    color: black;
-   opacity: 0.6;
+   opacity: 0.7;
    margin-left: 10px;
    padding-left: 150px;
    margin-bottom: 10px;
@@ -16,8 +16,8 @@
    z-index; -1;
 }
 .ccfooter::after{
-    content: "This work is open source under the conditions that (a) the material is clearly referenced if used for any derivative work, and (b) any derivative work must be open source too.\A Please get in touch with ug.ppls.stats@ed.ac.uk for further clarifications";
-    white-space: pre-wrap;
+    content: "This work is open source under the conditions that (a) the material is clearly referenced if used for any derivative work, and (b) any derivative work must be open source too. Please get in touch with PPLS.psych.stats@ed.ac.uk for further clarifications";
     font-size: .5em;
+    display:inline-block;
     vertical-align: middle; 
 }
