@@ -6,7 +6,7 @@ output:
   html_document:
     theme: cosmo
     toc: true
-    toc_depth: 1
+    toc_depth: 2
 ---
 
 
@@ -105,11 +105,15 @@ You cannot install R on Chromebooks. Go directly to the [Installing RStudio](#in
 
 ### Windows PC {#install-win}
 
+If you have a previous RStudio installation, please uninstall it before proceeding.
+
 Go to <https://www.rstudio.com/products/rstudio/download/#download> and click the big blue download button.
 
 Open the installer and follow the instructions while keeping the default options.
 
 ### Apple macOS PC {#install-mac}
+
+If you have a previous RStudio installation, please uninstall it before proceeding.
 
 Go to <https://www.rstudio.com/products/rstudio/download/#download> and click the big blue download button.
 
@@ -132,7 +136,7 @@ Please fill out [this form](https://forms.office.com/r/Pc5aqhyveE) and wait for 
 
 
 
-## {-}
+## {- .unlisted .unnumbered}
 
 
 ---
@@ -140,11 +144,13 @@ Please fill out [this form](https://forms.office.com/r/Pc5aqhyveE) and wait for 
 
 # B. Updating R and RStudio
 
+## B.1 Updating R
+
 If your R version or packages are old, you might get errors or find that the code required to run some examples is different from the one provided.
 
 Recall that R is the underlying programming language, while RStudio is just a wrapper around R providing a nicer user interface (text editor, file explorer and graphical window). Updating RStudio (the interface) will not update the R programming language which runs your code.  
 
-## B.1 Check which R version you have
+### Check which R version you have
 
 Check that your R version is up-to-date by typing into the R console:
 
@@ -168,9 +174,9 @@ minor          2.1
 Please check here: https://www.r-project.org/ to see what the most recent version is. If you have a different number for "major" than the most recent, it may well be time for an update.  
 
 
-## 2. Update R {.tabset .tabset-fade .tabset-pills}
+### Update R {.tabset .tabset-fade .tabset-pills}
 
-### Windows PC
+#### Windows PC
 
 Open RStudio, and type the following in the R console. Press Enter to run the code.
 
@@ -180,22 +186,28 @@ installr::updateR()
 ```
 
 
-### Apple macOS PC
+#### Apple macOS PC
 
 To update R, you need to remove any old R installations and reinstall R. Follow the instructions from [section A.1](#install-r).
 
 
-### Chromebooks
+#### Chromebooks
 
 You cannot install or update R on your Chromebook. You need to access R via the RStudio Server provided by our school, and the updates are managed by the school, you don't need to do anything.
 
 You still may want to update packages, though. Check [section C](#update-packages) for that.
 
-## {-}
+### {- .unlisted .unnumbered}
+
+
+## B.2 Updating RStudio
+
+Check if you need to update RStudio by clicking __Help__ and then __Check for updates__.
+
+If an update is available, follow the instructions from [section A.2](#install-rstudio).
 
 
 ---
-
 
 # C. Updating R packages {#update-packages}
 

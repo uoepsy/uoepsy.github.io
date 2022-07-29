@@ -390,9 +390,19 @@ pre code {
 <div id="TOC">
 <ul>
 <li><a href="#introduction" id="toc-introduction">Introduction</a></li>
-<li><a href="#a.-installing-r-and-rstudio" id="toc-a.-installing-r-and-rstudio">A. Installing R and
+<li><a href="#a.-installing-r-and-rstudio" id="toc-a.-installing-r-and-rstudio">A. Installing R and RStudio</a>
+<ul>
+<li><a href="#install-r" id="toc-install-r">A.1 Installing R</a></li>
+<li><a href="#install-rstudio" id="toc-install-rstudio">A.2 Installing
 RStudio</a></li>
-<li><a href="#b.-updating-r-and-rstudio" id="toc-b.-updating-r-and-rstudio">B. Updating R and RStudio</a></li>
+</ul></li>
+<li><a href="#b.-updating-r-and-rstudio" id="toc-b.-updating-r-and-rstudio">B. Updating R and RStudio</a>
+<ul>
+<li><a href="#b.1-updating-r" id="toc-b.1-updating-r">B.1 Updating
+R</a></li>
+<li><a href="#b.2-updating-rstudio" id="toc-b.2-updating-rstudio">B.2
+Updating RStudio</a></li>
+</ul></li>
 <li><a href="#update-packages" id="toc-update-packages">C. Updating R
 packages</a></li>
 </ul>
@@ -516,6 +526,8 @@ instructions.</p>
 <h2 class="tabset tabset-fade tabset-pills">A.2 Installing RStudio</h2>
 <div id="install-win" class="section level3">
 <h3>Windows PC</h3>
+<p>If you have a previous RStudio installation, please uninstall it
+before proceeding.</p>
 <p>Go to <a href="https://www.rstudio.com/products/rstudio/download/#download" class="uri">https://www.rstudio.com/products/rstudio/download/#download</a>
 and click the big blue download button.</p>
 <p>Open the installer and follow the instructions while keeping the
@@ -523,6 +535,8 @@ default options.</p>
 </div>
 <div id="install-mac" class="section level3">
 <h3>Apple macOS PC</h3>
+<p>If you have a previous RStudio installation, please uninstall it
+before proceeding.</p>
 <p>Go to <a href="https://www.rstudio.com/products/rstudio/download/#download" class="uri">https://www.rstudio.com/products/rstudio/download/#download</a>
 and click the big blue download button.</p>
 <p>Open the installer and follow the instructions while keeping the
@@ -545,13 +559,15 @@ and the password you set above in (2).</p></li>
 form</a> and wait for an email from us with instructions.</p>
 </div>
 </div>
-<div id="section" class="section level2 unnumbered">
-<h2 class="unnumbered"></h2>
+<div id="section" class="section level2 unnumbered unlisted">
+<h2 class="unnumbered unlisted unnumbered"></h2>
 <hr />
 </div>
 </div>
 <div id="b.-updating-r-and-rstudio" class="section level1">
 <h1>B. Updating R and RStudio</h1>
+<div id="b.1-updating-r" class="section level2">
+<h2>B.1 Updating R</h2>
 <p>If your R version or packages are old, you might get errors or find
 that the code required to run some examples is different from the one
 provided.</p>
@@ -560,8 +576,8 @@ is just a wrapper around R providing a nicer user interface (text
 editor, file explorer and graphical window). Updating RStudio (the
 interface) will not update the R programming language which runs your
 code.</p>
-<div id="b.1-check-which-r-version-you-have" class="section level2">
-<h2>B.1 Check which R version you have</h2>
+<div id="check-which-r-version-you-have" class="section level3">
+<h3>Check which R version you have</h3>
 <p>Check that your R version is up-to-date by typing into the R
 console:</p>
 <pre><code>version</code></pre>
@@ -578,31 +594,38 @@ minor          2.1
 version is. If you have a different number for “major” than the most
 recent, it may well be time for an update.</p>
 </div>
-<div id="update-r" class="section level2 tabset tabset-fade tabset-pills">
-<h2 class="tabset tabset-fade tabset-pills">2. Update R</h2>
-<div id="windows-pc-1" class="section level3">
-<h3>Windows PC</h3>
+<div id="update-r" class="section level3 tabset tabset-fade tabset-pills">
+<h3 class="tabset tabset-fade tabset-pills">Update R</h3>
+<div id="windows-pc-1" class="section level4">
+<h4>Windows PC</h4>
 <p>Open RStudio, and type the following in the R console. Press Enter to
 run the code.</p>
 <pre class="r"><code>install.packages(&quot;installr&quot;)
 installr::updateR()</code></pre>
 </div>
-<div id="apple-macos-pc-1" class="section level3">
-<h3>Apple macOS PC</h3>
+<div id="apple-macos-pc-1" class="section level4">
+<h4>Apple macOS PC</h4>
 <p>To update R, you need to remove any old R installations and reinstall
 R. Follow the instructions from <a href="#install-r">section
 A.1</a>.</p>
 </div>
-<div id="chromebooks-1" class="section level3">
-<h3>Chromebooks</h3>
+<div id="chromebooks-1" class="section level4">
+<h4>Chromebooks</h4>
 <p>You cannot install or update R on your Chromebook. You need to access
 R via the RStudio Server provided by our school, and the updates are
 managed by the school, you don’t need to do anything.</p>
 <p>You still may want to update packages, though. Check <a href="#update-packages">section C</a> for that.</p>
 </div>
 </div>
-<div id="section-1" class="section level2 unnumbered">
-<h2 class="unnumbered"></h2>
+<div id="section-1" class="section level3 unnumbered unlisted">
+<h3 class="unnumbered unlisted unnumbered"></h3>
+</div>
+</div>
+<div id="b.2-updating-rstudio" class="section level2">
+<h2>B.2 Updating RStudio</h2>
+<p>Check if you need to update RStudio by clicking <strong>Help</strong>
+and then <strong>Check for updates</strong>.</p>
+<p>If an update is available, follow the instructions from <a href="#install-rstudio">section A.2</a>.</p>
 <hr />
 </div>
 </div>
