@@ -1,13 +1,16 @@
 ---
 title: "Updating R & Packages"
-author: "uoepsy stats team"
+subtitle: "Last updated: UN - July 2022 for R version 4.2.1"
+author: "PPLS Psychology Statistics"
 output:
   html_document:
-    theme: readable
+    theme: cosmo
     toc: true
     toc_depth: 1
 ---
 
+
+# Introduction
 
 R is the name of both:
 
@@ -27,9 +30,9 @@ The programming language R comes with built-in functionality, like computing the
 
 This document explains how to 
 
-a) install R and RStudio, if you never used them before; 
-b) update R and RStudio, if you have old versions;
-c) how to update your R packages.
+A) install R and RStudio, if you never used them before; 
+B) update R and RStudio, if you have old versions;
+C) how to update your R packages.
 
 
 ---
@@ -37,7 +40,7 @@ c) how to update your R packages.
 
 # A. Installing R and RStudio
 
-## A.1 Installing R {.tabset .tabset-fade .tabset-pills}
+## A.1 Installing R {.tabset .tabset-fade .tabset-pills #install-r}
 
 ### Windows PC
 
@@ -50,15 +53,16 @@ If you have a previous R installation, please uninstall the following software f
 
 #### Install R
 
-Go to <https://cran.r-project.org/bin/windows/base/> and click `Download R << number >> for Windows`.
-
-Open the installer and follow the instructions.
+- Go to <https://cran.r-project.org/bin/windows/base/> 
+- Click __Download R-4.2.1 for Windows__
+- Open the installer and follow the instructions while keeping the default options
 
 #### Install RTools
 
-Go to <https://cran.r-project.org/bin/windows/Rtools/> and under the section `Installing Rtools`, download the version that matches your PC: either Windows 64-bit (most likely) or Windows 32-bit (if your PC is very old).
-
-Open the installer and follow the instructions.
+- Go to <https://cran.r-project.org/bin/windows/Rtools/> 
+- Click __RTools 4.2__
+- Click __Rtools42 installer__
+- Open the installer and follow the instructions while keeping the default options
 
 
 
@@ -78,50 +82,54 @@ Check which Apple PC you have. On the top-left of your screen click the Apple lo
 
 Go to <https://cran.r-project.org/bin/macosx/> and download one of these: 
 
-1. `R-4.1.1.pkg (notarized and signed)` if you have an Intel-based macOS PC
-2. `R-4.1.1-arm64.pkg (notarized and signed)` if you have an Apple silicon arm64 macOS PC.
+1. `R-4.2.1.pkg (notarized and signed)` if you have an Intel-based macOS PC
+2. `R-4.2.1-arm64.pkg (notarized and signed)` if you have an Apple silicon arm64 macOS PC.
 
-Open the installer and follow the instructions.
+Open the installer and follow the instructions while keeping the default options.
 
 
 #### Install XQuartz
 
-Download XQuartz: [https://xquartz.macosforge.org/](https://xquartz.macosforge.org/). 
-
-Open the installer and follow the instructions.
+- Download XQuartz: <https://www.xquartz.org/>
+- Open the installer and follow the instructions while keeping the default options
 
 
 
 ### Chromebooks
 
-You cannot install R on Chromebooks. Go directly to Installing RStudio to follow the instructions.
+You cannot install R on Chromebooks. Go directly to the [Installing RStudio](#install-rstudio) section for instructions.
 
 
 
-## A.2 Installing RStudio {.tabset .tabset-fade .tabset-pills}
+## A.2 Installing RStudio {.tabset .tabset-fade .tabset-pills #install-rstudio}
 
 ### Windows PC {#install-win}
 
 Go to <https://www.rstudio.com/products/rstudio/download/#download> and click the big blue download button.
 
-Open the installer and follow the instructions.
+Open the installer and follow the instructions while keeping the default options.
 
 ### Apple macOS PC {#install-mac}
 
 Go to <https://www.rstudio.com/products/rstudio/download/#download> and click the big blue download button.
 
-Open the installer and follow the instructions.
+Open the installer and follow the instructions while keeping the default options.
 
 
 ### Chromebooks {#install-chrome}
 
-1. Log in to EASE using your university UUN and password
+__First try these steps:__
+
+1. Log in to [EASE](https://www.ease.ed.ac.uk/) using your university UUN and password
 
 2. Set your RStudio password [here](https://rstudio.ppls.ed.ac.uk/setpass.php), the username will be the same as your UUN (make sure you type your UUN correctly!)
 
-3. If you believe that your username has not been granted access, please fill out the form [here](https://forms.office.com/r/Pc5aqhyveE) and we will get back to you as soon as we can.
+3. Access the server from <https://rstudio.ppls.ed.ac.uk> using your university UUN and the password you set above in (2).
 
-Go to <https://rstudio.ppls.ed.ac.uk> to log in to the server using your UUN and the password you just set.
+__If that didn't work:__
+
+Please fill out [this form](https://forms.office.com/r/Pc5aqhyveE) and wait for an email from us with instructions.
+
 
 
 ## {-}
@@ -153,7 +161,7 @@ os             << this will be different for each of you >>
 system         << this will be different for each of you >>        
 status                                     
 major          4                           
-minor          1.1                         
+minor          2.1                         
 << and more lines which you can ignore... >>
 ```
 
@@ -174,14 +182,14 @@ installr::updateR()
 
 ### Apple macOS PC
 
-To update R, you need to remove any old R installations and reinstall R. Follow the instructions from [A.1](#install-mac).
+To update R, you need to remove any old R installations and reinstall R. Follow the instructions from [section A.1](#install-r).
 
 
 ### Chromebooks
 
 You cannot install or update R on your Chromebook. You need to access R via the RStudio Server provided by our school, and the updates are managed by the school, you don't need to do anything.
 
-You still may want to update packages, though. Check [section C](#update-pkgs) for that.
+You still may want to update packages, though. Check [section C](#update-packages) for that.
 
 ## {-}
 
@@ -189,7 +197,7 @@ You still may want to update packages, though. Check [section C](#update-pkgs) f
 ---
 
 
-# C. Updating R packages {#update-pkgs}
+# C. Updating R packages {#update-packages}
 
 Open RStudio. In the R console, type the following and press Enter:
 
