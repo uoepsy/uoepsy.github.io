@@ -1,12 +1,12 @@
 ---
-title: "Updating R & Packages"
-subtitle: "Last updated: UN - July 2022 for R version 4.2.1"
-author: "PPLS Psychology Statistics"
+title: "R & RStudio"
+subtitle: "Installation and updates"
+author: "UoE Psychology"
 output:
-  html_document:
-    theme: cosmo
-    toc: true
-    toc_depth: 2
+  rmdformats::material
+    # theme: cosmo
+    # toc: true
+    # toc_depth: 2
 ---
 
 
@@ -35,7 +35,7 @@ B) update R and RStudio, if you have old versions;
 C) how to update your R packages.
 
 
----
+
 
 
 # A. Installing R and RStudio
@@ -54,7 +54,7 @@ If you have a previous R installation, please uninstall the following software f
 #### Install R
 
 - Go to <https://cran.r-project.org/bin/windows/base/> 
-- Click __Download R-4.2.1 for Windows__
+- Click __Download R-4.2.2 for Windows__
 - Open the installer and follow the instructions while keeping the default options
 
 #### Install RTools
@@ -78,12 +78,12 @@ If you have a previous R installation, please go to the Applications folder in y
 
 #### Install R
 
-Check which Apple PC you have. On the top-left of your screen click the Apple logo, click About This Mac, note what the Processor line says. If it has the word "Intel", you want to follow 1 below, and 2 otherwise.
+Check which Apple PC you have. On the top-left of your screen click the Apple logo, click About This Mac, note what the Processor line says. If it has the word "Intel", you want to follow 2 below, and 1 otherwise.
 
 Go to <https://cran.r-project.org/bin/macosx/> and download one of these: 
 
-1. `R-4.2.1.pkg (notarized and signed)` if you have an Intel-based macOS PC
-2. `R-4.2.1-arm64.pkg (notarized and signed)` if you have an Apple silicon arm64 macOS PC.
+1. `R-4.2.2-arm64.pkg (notarized and signed)` if you have an Apple silicon arm64 macOS PC.
+2. `R-4.2.2.pkg (notarized and signed)` if you have an Intel-based macOS PC
 
 Open the installer and follow the instructions while keeping the default options.
 
@@ -107,7 +107,7 @@ You cannot install R on Chromebooks. Go directly to the [Installing RStudio](#in
 
 If you have a previous RStudio installation, please uninstall it before proceeding.
 
-Go to <https://www.rstudio.com/products/rstudio/download/#download> and click the big blue download button.
+Go to <https://posit.co/download/rstudio-desktop/>, scroll down to Step 2, and follow the download instructions.
 
 Open the installer and follow the instructions while keeping the default options.
 
@@ -115,7 +115,7 @@ Open the installer and follow the instructions while keeping the default options
 
 If you have a previous RStudio installation, please uninstall it before proceeding.
 
-Go to <https://www.rstudio.com/products/rstudio/download/#download> and click the big blue download button.
+Go to <https://posit.co/download/rstudio-desktop/>, scroll down to Step 2, and follow the download instructions.
 
 Open the installer and follow the instructions while keeping the default options.
 
@@ -139,7 +139,7 @@ Please fill out [this form](https://forms.office.com/r/Pc5aqhyveE) and wait for 
 ## {- .unlisted .unnumbered}
 
 
----
+
 
 
 # B. Updating R and RStudio
@@ -167,7 +167,7 @@ os             << this will be different for each of you >>
 system         << this will be different for each of you >>        
 status                                     
 major          4                           
-minor          2.1                         
+minor          2.2                         
 << and more lines which you can ignore... >>
 ```
 
@@ -207,7 +207,8 @@ Check if you need to update RStudio by clicking __Help__ and then __Check for up
 If an update is available, follow the instructions from [section A.2](#install-rstudio).
 
 
----
+
+
 
 # C. Updating R packages {#update-packages}
 
@@ -218,5 +219,14 @@ options(pkgType = "binary")
 update.packages(ask = FALSE)
 ```
 
-<br>
 
+
+
+
+# History
+
+- Last updated by UN in November 2022 for R version 4.2.2
+- Last updated by UN in July 2022 for R version 4.2.1
+
+Department of Psychology  
+The University of Edinburgh
