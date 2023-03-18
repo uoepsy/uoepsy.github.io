@@ -1,1254 +1,2512 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://uoepsy.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/info-resources.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/files/writeup_guide.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/files/install-update-r.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec0_CourseIntro.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/intro_r_rstudio_year1.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec1_ResearchDesign-Data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_01_data_types.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec2_DescribingCategoricalData.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_02_categorical.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec3_DescribingContData.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_03_numerical.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec4_DescribingRelationships.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_04_relationships.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec5_Functions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_05_functions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec6_IntroProbability.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_07_probability_basics.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec7_ProbabilityRules.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_08_probability_rules.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec8_DiscreteProbabilityDist.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_09_discrete_distributions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec9_ContinuousProbabilityDist.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_10_continuous_distributions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec10_Samples-SamplingDist.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/1_11_sampling_distributions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_01_confidence_intervals.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_02_ht_pvalues.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_03_ht_critvalues.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_04_htci.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapr1_2_01_confint.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapr1_2_02_ht_pvalues.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapr1_2_04_htci.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_05_hterrorspower.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapr1_2_03_ht_critvalues.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_07_onesamplet.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_08_independentt.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_09_pairedt.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapr1_lec16_onesamplet.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapr1_lec17_independentt.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapr1_lec18_pairedt.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_01_Prelims.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_02_functions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/lectures/dapr1_2_05_errorspower.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_03_LMintro.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_01_models.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_04_LMcoefs.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_02_slr.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_05_LMmodeleval.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_06_LMstandardized.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_07_LMBinary.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_03_slr_model_fit.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_08_LM_multiple.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_09_LM_categorical.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_04_mlr.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_10_interactions1.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_05_int_nc.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_10_interactions2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_07_int_nn.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_11_interactions3.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_12_assumptions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_08_int_cc.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_13_diagnostics1.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_13_diagnostics2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_09_assumptions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_14_BootstrapTheory.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_14_BootstrapLM.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_10_bootstrap_reg.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/1_11_write_up.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_15_model_comparison.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_01_model_comp.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_16_codingcategoricaldata.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_02_coding_factors.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_03_cont_design_factanova.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_18_factorialdesigns.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_04_factorial_anova.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_17_experimentaldesign.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_19_revisitingassumptions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_05_multi_comp_writeup.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_20_binarylogistic1.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_20_binarylogistic2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_07_binary.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/lectures/dapr2_21_introglm.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_08_morelogistic.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_lec01_IntroMLM.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/01_intromlm.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_lec02_LogisticMLM.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_lec02-2_LinearLDA.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/02_lmm_log.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_lec03_NonLinearLDA.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/03_nonlin.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_lec04-1_RanEf_3lev.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_lec04-2_RanEf_Crossed.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/04_ranef.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_lec05-1_IndivDiffs_Ext.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_lec05-2_IndivDiffs_Int.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/05_multilevel_recap.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/week7_pca.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/07_efapca.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/week7_efa.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/08_cfa.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/09_path.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Reading_02_Signposts.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/week8_cfa.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Reading_01_Introduction.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Reading_03_CarefulReading.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Reading_04_Evaluation.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Question_01_constructing.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Question_02_testing.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Question_03_reviewing.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/OpenScience_01_Introduction.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/week9_path.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/OpenScience_02_Planning.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/OpenScience_03_Preregistering.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/OpenScience_04_TraceYourSteps.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/OpenScience_05_Transparency.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Ethics_01_principles.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Ethics_02_data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Ethics_03_intro.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Ethics_04_infosheet.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Ethics_05_ethics_app.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Design_01_Introduction.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Design_02_Design.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Design_03_Randomization.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Design_04_Datacollection.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Design_05_Testable.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/about.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_10_chisquare.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr1/labs/2_11_covcor.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/passworddata.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/psych_survey.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/wechsler.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/strooptask.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cycling_mmwalk.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cycling_invrow.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pulse.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/rtdata.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/TipJoke.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/HollywoodMovies.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pregnancies.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/NeuronCounts.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/StorySpoilers.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/students_reading_scores.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/BodyTemp.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/seattlepets.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pass_scores.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/CloseFriends.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/marriageages.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cbtsmoke.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_09_exp_vs_conf.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_10_power.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/2_11_recap</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr2/labs/intro_r_rstudio.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/handheight.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/riverview.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/wellbeing.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/wellbeing_rural.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/scs_study.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cognitive_experiment_3_by_2.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/science-faith-attitude.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/RestaurantSpending.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/caffeinedrink.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cognitive_experiment.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lietraining.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/drunkdoor.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/SenilityWAIS.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/QuitAttempts.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/10_sem1.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/11_sem2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/lectures/lecture_7.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/00_tidyverse_markdown.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/toyexample.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/09_glm.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/lvp.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/basketballconditions.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/bballhrv.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/WeightMaintain3.rda</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/labs/zz_quickcontrasts.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/07_regression.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/lectures/lecture_9.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/functions/code_poly.R</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/Az.rda</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/bntmono.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/lectures/msmr_extra.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/schoolsabs.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/job_performance.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/conduct_probs.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/conduct_problems_2.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cp_teachacad.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/indirect_effects.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/00-getting-started.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/01-basics.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/02-data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/cpt-data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/03-exploring-data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/04-insights-from-data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/05-making-decisions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/00-getting-started.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/01-basics.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/02-compiling.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/03-inline.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/04-prettytab.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/05-echoeval.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/06-figs.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/07-refs.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/08-reproducibility.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/rmd-bootcamp/zz-packs.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/DPUK_IntroLM_v2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/install-update-r.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/dapr2_lec07.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/day1_practical.R</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/riverview.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/salary_lec.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/day2_practical.R</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/salary2.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/day3_practical.R</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/acer.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/day4_practical.R</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/dpuk/sillydata.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/Question_01_Constructing.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/Question_02_Testing.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/Question_03_Reviewing.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/pt2_TraceYourSteps.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/pt3_RTEA_Y4_part2_NM.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/be_transparent.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/RTEA_Y4intro.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/02_gdpr_lecture.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/Design1Introduction.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/Design2Design.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/01_principles_lecture.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/trace_your_steps.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/Design3Randomization.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/writers.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/Design4Datacollection.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/prs/Slides/03_ethics_app_lecture.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/recalldata.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/jobsat.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/sleepdtf.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/recall_med_coast.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/00-getting-started.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/01-basics.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/02-compiling.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/03-inline.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/04-prettytab.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/05-echoeval.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/06-figs.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/07-refs.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/08-reproducibility.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/rmd-bootcamp/zz-packs.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/01_lmcluster.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/01_regressionrefresh.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/02_intromlm.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/02_intromlm.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/03_assumptdiag.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/03_assumptranef.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/04_centeringglmer.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/04_centerglmer.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/05_mlmresearch.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/05_examples.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/week1_pathintro.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/07_path1.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/week2_pathmediation.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/08_path2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/week3_pca.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/09_pca.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/week4_efa1.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/10_efa.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/lectures/week5_efa2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/11_efa2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/examples/example_00_anova.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/examples/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_0.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/examples/example_01_repeated_measures.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/00_introPG.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/examples/example_02_intervention.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/examples/example_03_many_trials.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_1.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/examples/example_06_pcavar.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/01_categorical.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_3.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/02_numerical.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_4.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/03_nhst.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/04_tests.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_5.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/05_covcor.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_6.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_7.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/06_messy.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/07_regression.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_8.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/08_regression2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_9.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/09_glm.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_10.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/10_sswriting.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/zz_assumpt.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/zz_incrementalvalidity.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/zz_ss.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/zz_from_p_to_logit.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/TPB_data.Rdata</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/TPB_data.txt</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/stressIQ.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/teabiscuit.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/Kraus_etal2019_Study1.Rdata</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/IQdatam.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/women_computer_science.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/exam.sav</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/psychability.rda</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/00_introPG.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/01_categorical.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/Weather_2014.RData</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/03_nhst.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/02_numerical.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/04_tests.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/05_covcor.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/06_messy.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/08_regression2.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/10_sswriting.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/zz_assumpt.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/zz_incrementalvalidity.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/zz_ss.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/zz_modelselect.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/labs/zz_from_p_to_logit.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/lectures/lecture_8</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/lectures/lecture_6.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/lectures/lecture_8.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/data/toyutility.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/data/UNpop.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/data/UNpop.txt</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/data/UNpop.xlsx</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/data/turnout.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/data/BodyTemp.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/scs/r-bootcamp/data/Smiles.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/Smiles.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/02-data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/00-getting-started.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/01-basics.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/cpt-data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/03-exploring-data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/04-insights-from-data.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/05-making-decisions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/labs/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/basketballhrv.xlsx</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/resources.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/hangry.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/dapr2_report1.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/2122/examples/example2_01_EFA.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/15_binary_logistic.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/faq/lvp.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/passionpath.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/dapr3/lectures/week1_pathintro.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/vaxdat.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pgpets.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/usmr/2122/labs/zz_modelselect.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/data_HA.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/surveydata_allcourse.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/gerritysim.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/tomatogrowth.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/blink_setup.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/blink_eyegaze.xlsx</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cogapoe4.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/data/UNpop.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/data/UNpop.txt</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/data/UNpop.xlsx</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/data/turnout.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/data/BodyTemp.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/r-bootcamp/data/Smiles.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/WPS_data.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/index.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/01_models.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/WPS_data_codebook.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/02_slr.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/03_slr_model_fit.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/04_slr_assumptions.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/05_slr_writeup.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/06_mlr.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/07_mlr_int.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/08_mlr_assumpt.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/09_mlr_select.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/10_mlr_report.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/11_anova.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/12_factorial_anova.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/13_multiplecomp.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/14_bootstrap_reg.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/16_more_about_logistic.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/17_power_regression.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/wayback/dapr2labs/intro_r_rstudio.html</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/perfection.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/mental_rotation.csv</loc>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/files/mlr_writeup_example.Rmd</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://uoepsy.github.io/</loc>
+  <lastmod>2023-02-07T09:22:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/</loc>
+  <lastmod>2023-02-09T11:14:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/</loc>
+  <lastmod>2023-03-16T20:51:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/ap/</loc>
+  <lastmod>2023-02-09T12:30:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/ap/2223/</loc>
+  <lastmod>2023-02-09T12:30:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/intro_r/</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/</loc>
+  <lastmod>2022-12-06T23:47:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/dpuk/index.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/index.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Reading_01_Introduction.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Reading_02_Signposts.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Reading_03_CarefulReading.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Reading_04_Evaluation.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Question_01_constructing.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Question_02_testing.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Question_03_reviewing.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/OpenScience_01_Introduction.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/OpenScience_02_Planning.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/OpenScience_03_Preregistering.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/OpenScience_04_TraceYourSteps.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/OpenScience_05_Transparency.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Ethics_01_principles.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Ethics_02_data.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Ethics_03_intro.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Ethics_04_infosheet.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Ethics_05_ethics_app.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Design_01_Introduction.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Design_02_Design.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Design_03_Randomization.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Design_04_Datacollection.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Design_05_Testable.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/about.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapr1_welcome_week.pdf</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec1_ResearchDesign-Data.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_01_design_and_data.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_01.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec2_DescribingCategoricalData.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_02_categorical_data.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_02.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec3_DescribingContData.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_03_numeric_data.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_03.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec4_DescribingRelationships.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_04_relationships.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_04.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec5_Functions.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_05_formative_report_a.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_05.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec6_IntroProbability.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_07_prob_theory.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_07.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec7_ProbabilityRules.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_08_prob_rules.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_08.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec8_DiscreteProbabilityDist.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_09_discrete_dist.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_09.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec9_ContinuousProbabilityDist.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_10_cont_dist.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_10.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapR1_lec10_Samples-SamplingDist.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/1_11_sampling.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd1_11.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapr1_2_01_confint_2223.pdf</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/2_01_confint.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd2_01.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapr1_2_02_ht_pvalues.pdf</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/2_02_ht_pvalues.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd2_02.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapr1_2_03_ht_critvalues.pdf</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/2_03_ht_critvalues.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd2_03.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapr1_2_04_htci.pdf</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/2_04_htci.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd2_04.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/lectures/dapr1_2_05_errorspower.pdf</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/2_05_hterrorspower.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/rd2_05.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/index.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/index.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapR2_00_Intro.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_01_introlm.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_01_function.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_02_LM2.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_02_slr.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_03_testinglm.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_03_mlr.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_04_testinglm2.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_04_model_fit.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_05_LMcategorical1</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_05_cat_recap.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_06_interactions1.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_07_int1_nc.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_07_interactions2.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_08_int2_nn.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_08_interactions3.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_09_int3_cc.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_09_assumptions_diagnostics.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_10_assump_diag.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_11_writeup_recap.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_11_modelcomparison</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_01_model_comps.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_12_effectscoding.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_02_effects.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_13_onewaycontrasts.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_03_contrasts.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_14_experimentaleffects.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_04_emmeans.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/00_intro.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/01_lmcluster.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/01_regressionrefresh.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/02_intromlm.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/02_intromlm.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/03_assumptdiag.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/03_assumptranef.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/04_centeringglmer.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/04_centerglmer.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/05_mlmresearch.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/05_recap.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/week1_pathintro.html</loc>
+  <lastmod>2023-02-09T11:14:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/07_path1.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/week2_pathmediation.html</loc>
+  <lastmod>2023-02-09T11:14:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/08_path2.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/week3_pca.html</loc>
+  <lastmod>2023-02-09T11:14:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/09_pca.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/week4_efa1.html</loc>
+  <lastmod>2023-02-09T11:14:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/10_efa.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/lectures/week5_efa2.html</loc>
+  <lastmod>2023-02-09T11:14:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/11_efa2.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/example_00_anova.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/example_01_repeated_measures.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/example_02_intervention.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/example_03_many_trials.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/explainer_3leveleq.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/explainer_pcavar.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/example2_01_EFA.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_0.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_0.pdf</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_1.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_1.pdf</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/01a_R.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/01b_data.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/01_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_2.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_2.pdf</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/02a_measurement.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/02b_sampling.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/02_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_3.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_3.pdf</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/03a_inference.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/03b_inference2.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/03_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_4.html</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_4.pdf</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/04a_chisq.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/04b_revisitnhst.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/04_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_5.html</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_5.pdf</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/05a_covcor.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/05_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/06_wt.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_7A.html</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_7A.pdf</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_7.html</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_7.pdf</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/07a_slr.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/07_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_8.html</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_8.pdf</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/08a_mlr.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/08b_assumptdiag.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/08_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_9.html</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_9.pdf</loc>
+  <lastmod>2023-02-09T12:32:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/09a_interactions.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/09b_contrasts.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/09_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_10.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_10.pdf</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/10a_glm.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/10_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_11.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/lectures/lecture_11.pdf</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/11_ex.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec01_IntroMLM.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/01_intromlm.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec02_LogisticMLM.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec02-2_LinearLDA.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/02_lmm_log.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec03_NonLinearLDA.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/03_nonlin.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec04_RanEf.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/04_ranef.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec05-1_IndivDiffs_Ext.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec05-2_IndivDiffs_Int.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/05_multilevel_recap.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/06_efapca.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/07_cfa.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/08_path.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/09_sem1.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/10_sem2.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/index.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/index.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/files/install-update-r.html</loc>
+  <lastmod>2023-02-07T09:22:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/intro_r/intro-r.pdf</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/intro_r/lab1.pdf</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/intro_r/lab2.pdf</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/index.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/00-getting-started.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/01-basics.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/02-data.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/cpt-data.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/03-exploring-data.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/04-insights-from-data.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/05-making-decisions.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/index.html</loc>
+  <lastmod>2022-12-06T23:47:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/00-getting-started.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/01-basics.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/02-compiling.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/03-inline.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/04-prettytab.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/05-echoeval.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/06-figs.html</loc>
+  <lastmod>2022-12-06T23:47:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/07-refs.html</loc>
+  <lastmod>2022-12-06T23:47:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/08-reproducibility.html</loc>
+  <lastmod>2022-12-06T23:47:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/rmd-bootcamp/zz-packs.html</loc>
+  <lastmod>2022-12-06T23:47:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/dpuk/install-update-r.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/dpuk/DPUK_IntroLM_v2.html</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/intro_r_rstudio_year1.html</loc>
+  <lastmod>2023-03-13T12:10:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/Question_01_Constructing.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/Question_02_Testing.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/Question_03_Reviewing.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/RTEA_Y4intro.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/pt2_TraceYourSteps.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/pt3_RTEA_Y4_part2_NM.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/trace_your_steps.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/be_transparent.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/01_principles_lecture.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/01_principles_lecture.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/02_gdpr_lecture.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/02_gdpr_lecture.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/03_ethics_app_lecture.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/03_ethics_app_lecture.html</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/Design1Introduction.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/Design2Design.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/Design3Randomization.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/prs/Slides/Design4Datacollection.pdf</loc>
+  <lastmod>2022-01-25T11:54:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/index.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2223/labs/about.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec0_CourseIntro.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/intro_r_rstudio_year1.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec1_ResearchDesign-Data.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_01_data_types.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec2_DescribingCategoricalData.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_02_categorical.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec3_DescribingContData.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_03_numerical.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec4_DescribingRelationships.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_04_relationships.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec5_Functions.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_05_functions.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec6_IntroProbability.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_07_probability_basics.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec7_ProbabilityRules.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_08_probability_rules.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec8_DiscreteProbabilityDist.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_09_discrete_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec9_ContinuousProbabilityDist.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_10_continuous_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec10_Samples-SamplingDist.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/1_11_sampling_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_2_01_confint.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_01_confidence_intervals.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_2_02_ht_pvalues.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_02_ht_pvalues.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_2_03_ht_critvalues.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_03_ht_critvalues.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_2_04_htci.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_04_htci.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_2_05_errorspower.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_05_hterrorspower.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_lec16_onesamplet.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_07_onesamplet.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_lec17_independentt.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_08_independentt.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_lec18_pairedt.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_09_pairedt.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_lec19_Chisquare.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_10_chisquare.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapr1_lec20_Correlations.pdf</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec0_CourseIntro.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/intro_r_rstudio_year1.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec1_ResearchDesign-Data.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/01_data_types.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec2_DescribingCategoricalData.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/02_categorical.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec3_DescribingContData.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/03_numerical.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec4_DescribingRelationships.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/04_relationships.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec5_Functions.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/05_functions.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec6_IntroProbability.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/07_probability_basics.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec7_ProbabilityRules.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/08_probability_rules.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec8_DiscreteProbabilityDist.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/09_discrete_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec9_ContinuousProbabilityDist.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/10_continuous_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec10_Samples-SamplingDist.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/11_sampling_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec11_0_sem2intro.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec11_Bootstrap_CIs.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/12_bootstrap_cis.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec12_nhstpval.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/13_hypothesis_testing.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec13_nhstcrit.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/14_critical_values.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec14_htci.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/15_connecting_ci_ht.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec15_hterrors.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/16_ht_errors.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec16_onesamplet.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/17_one_sample_mean.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec17_independentt.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/18_two_sample_means.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec18_pairedt.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/19_paired_t_test.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec19_Chisquare.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/20_chi_square.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1slides/dapR1_lec20_Correlations.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/21_covcor.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/index.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_05_writeup_recap.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_06_glm1.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_07_glm2.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_08_power.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/2_09_writeup_recap.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/files/install-update-r</loc>
+  <lastmod>2023-02-07T09:22:25+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_07_interactions2</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/labs/1_09_int2_cc.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_06_interactions1</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_09_assumptions_diagnostics</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/index.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr3/2223/labs/lvp.html</loc>
+  <lastmod>2023-02-09T11:14:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_04_mlr.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_07_binary.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/indirect_effects.pdf</loc>
+  <lastmod>2023-03-16T20:51:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/data/WPS_data_codebook.pdf</loc>
+  <lastmod>2023-02-27T16:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/index.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_2.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/usmr/2223/labs/lvp.html</loc>
+  <lastmod>2023-02-09T12:32:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/index.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/zz_tidyverse_markdown.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/zz_binary_binomial.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/zz_quickcontrasts.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/labs/zz_lvp.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_extra.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/indirect_effects.pdf</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/data/TPB_data.txt</loc>
+  <lastmod>2023-02-27T16:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_lec01_IntroMLM.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/01_intromlm.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_lec02_LogisticMLM.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_lec02-2_LinearLDA.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/02_lmm_log.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_lec03_NonLinearLDA.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/03_nonlin.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_lec04-1_RanEf_3lev.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_lec04-2_RanEf_Crossed.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/04_ranef.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_lec05-1_IndivDiffs_Ext.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_lec05-2_IndivDiffs_Int.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/05_multilevel_recap.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/week7_pca.pdf</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/week7_efa.pdf</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/07_efapca.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/week8_cfa.pdf</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/08_cfa.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/week9_path.pdf</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/09_path.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/week10_sem1.pdf</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/10_sem1.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/week11_sem2.pdf</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/11_sem2.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/msmr_lec01_IntroMLM.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/01_intromlm.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/msmr_lec02_LogisticMLM.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/msmr_lec02-2_LinearLDA.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/02_lmm_log.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/msmr_lec03_NonLinearLDA.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/03_nonlin.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/msmr_lec04-1_RanEf_3lev.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/msmr_lec04-2_RanEf_Crossed.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/04_other_ranef.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/msmr_lec05-1_IndivDiffs_Ext.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/msmr_lec05-2_IndivDiffs_Int.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/05_multilevel_recap.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/06_rev.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/week7_pca.pdf</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/week7_efa.pdf</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/07_efapca.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/week8_cfa.pdf</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/08_cfa.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/week9_path.pdf</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/09_path.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/week10_sem1.pdf</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/10_sem1.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlectures/week11_sem2.pdf</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/11_sem2.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/scs/r-bootcamp/data/UNpop.txt</loc>
+  <lastmod>2022-12-06T23:47:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/r-bootcamp/02-data.html</loc>
+  <lastmod>2021-07-19T08:37:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/index.html</loc>
+  <lastmod>2023-03-13T12:10:18+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_01_data_types.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_02_categorical.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_03_numerical.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_04_relationships.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_05_functions.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_07_probability_basics.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_08_probability_rules.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_09_discrete_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_10_continuous_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/1_11_sampling_distributions.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_01_confidence_intervals.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_02_ht_pvalues.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_03_ht_critvalues.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_04_htci.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_05_hterrorspower.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_07_onesamplet.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_08_independentt.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_09_pairedt.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_10_chisquare.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/labs/2_11_covcor.html</loc>
+  <lastmod>2023-03-13T12:10:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/index.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2122/labs/2_11_covcor.html</loc>
+  <lastmod>2023-03-13T12:10:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/2021/dapr1labs/index.html</loc>
+  <lastmod>2023-03-13T12:10:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr1/lectures/dapR1_lec10_Samples-SamplingDist.html</loc>
+  <lastmod>2023-03-13T12:10:18+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_15_BootstrapLM</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapR2_16_binarylogistic.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_17_intropower.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/index.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/00-getting-started.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/01-basics.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/02-compiling.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/03-inline.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/04-prettytab.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/05-echoeval.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/06-figs.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/07-refs.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/08-reproducibility.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/rmd-bootcamp/zz-packs.html</loc>
+  <lastmod>2021-12-13T16:04:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/index.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_01_models.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_02_slr.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_03_slr_model_fit.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_05_int_nc.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_07_int_nn.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_08_int_cc.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_09_assumptions.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_10_bootstrap_reg.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/1_11_write_up.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_01_model_comp.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_02_coding_factors.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_03_cont_design_factanova.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_04_factorial_anova.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_05_multi_comp_writeup.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_08_morelogistic.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_09_exp_vs_conf.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_10_power.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/2_11_recap</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/dapr2/2122/labs/intro_r_rstudio.html</loc>
+  <lastmod>2023-03-17T13:07:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec00_tidyverse-markdown.html</loc>
+  <lastmod>2023-03-16T20:51:05+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/index.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/00_tidyverse_markdown.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/lvp.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/labs/zz_quickcontrasts.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/labs/02_lmm_log.html</loc>
+  <lastmod>2023-03-16T20:51:06+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2122/lectures/msmr_extra.html</loc>
+  <lastmod>2023-03-16T20:51:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/labs/09_path.html</loc>
+  <lastmod>2023-03-16T20:51:06+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/index.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/00_tidyverse_markdown.html</loc>
+  <lastmod>2023-03-16T20:51:02+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://uoepsy.github.io/msmr/2021/msmrlabs/zz_writeuplogistic.html</loc>
+  <lastmod>2023-03-16T20:51:03+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
 </urlset>
