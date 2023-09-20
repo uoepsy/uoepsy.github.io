@@ -54,14 +54,14 @@ If you have a previous R installation, please uninstall the following software f
 #### Install R
 
 - Go to <https://cran.r-project.org/bin/windows/base/> 
-- Click __Download R-4.2.2 for Windows__
+- Click __Download R-4.3.1 for Windows__
 - Open the installer and follow the instructions while keeping the default options
 
 #### Install RTools
 
 - Go to <https://cran.r-project.org/bin/windows/Rtools/> 
-- Click __RTools 4.2__
-- Click __Rtools42 installer__
+- Click __RTools 4.3__
+- Click __Rtools43 installer__
 - Open the installer and follow the instructions while keeping the default options
 
 
@@ -82,8 +82,8 @@ Check which Apple PC you have. On the top-left of your screen click the Apple lo
 
 Go to <https://cran.r-project.org/bin/macosx/> and download one of these: 
 
-1. `R-4.2.2-arm64.pkg (notarized and signed)` if you have an Apple silicon arm64 macOS PC.
-2. `R-4.2.2.pkg (notarized and signed)` if you have an Intel-based macOS PC
+1. `R-4.3.1-arm64.pkg` if you have an Apple silicon arm64 macOS PC.
+2. `R-4.3.1-x86_64.pkg` if you have an Intel-based macOS PC
 
 Open the installer and follow the instructions while keeping the default options.
 
@@ -167,7 +167,7 @@ os             << this will be different for each of you >>
 system         << this will be different for each of you >>        
 status                                     
 major          4                           
-minor          2.2                         
+minor          3.1                         
 << and more lines which you can ignore... >>
 ```
 
@@ -225,6 +225,7 @@ update.packages(ask = FALSE)
 
 # History
 
+- Last updated by UN in September 2023 for R version 4.3.1
 - Last updated by UN in November 2022 for R version 4.2.2
 - Last updated by UN in July 2022 for R version 4.2.1
 
