@@ -2574,27 +2574,23 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
-        .tiles articlediv {
-			position: relative;
-			width: calc(16.6666% - 2.5em);
-			margin: 2.5em 0 0 2.5em;
-		}
+
 		.tiles article {
 			-moz-transition: -moz-transform 0.5s ease, opacity 0.5s ease;
 			-webkit-transition: -webkit-transform 0.5s ease, opacity 0.5s ease;
 			-ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease;
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			position: relative;
-			width: calc(33.33333% - 2.5em);
-			margin: 2.5em 0 0 2.5em;
+			width: calc(20% - 1.5em);
+			margin: 1.5em 0 0 1.5em;
 		}
 		
 
-			.tiles article > .image {
+		.tiles article > .image {
 				-moz-transition: -moz-transform 0.5s ease;
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
@@ -2705,6 +2701,7 @@ input, select, textarea {
 					max-height: 0;
 					line-height: 1.5;
 					margin-top: 0.35em;
+					font-size: .8em;
 					opacity: 0;
 				}
 
@@ -2729,7 +2726,7 @@ input, select, textarea {
 			}
 			
 			.tiles article.style7 > .image:before {
-				background-color: #44ada3;
+				background-color: #25aeda;
 			}
 			.tiles article.style8 > .image:before {
 				background-color: #FC766A;
@@ -2787,8 +2784,8 @@ input, select, textarea {
 			}
 
 				.tiles article {
-					width: calc(33.33333% - 1.25em);
-					margin: 1.25em 0 0 1.25em;
+					width: calc(20% - 1em);
+					margin: 1em 0 0 1em;
 				}
 
 		}
@@ -2796,29 +2793,28 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			.tiles {
-				margin: -2.5em 0 0 -2.5em;
+				margin: -1.5em 0 0 -1.5em;
 			}
 
 				.tiles article {
-					width: calc(50% - 2.5em);
-					margin: 2.5em 0 0 2.5em;
+					width: calc(33% - 1.5em);
+					margin: 1.5em 0 0 1.5em;
 				}
             .tiles articlediv {
                 width: calc(0%);
                 margin: 0;
             }
-
-		}
+    }
 
 		@media screen and (max-width: 736px) {
 
 			.tiles {
-				margin: -1.25em 0 0 -1.25em;
+				margin: -1em 0 0 -1em;
 			}
 
 				.tiles article {
-					width: calc(50% - 1.25em);
-					margin: 1.25em 0 0 1.25em;
+					width: calc(45% - 1em);
+					margin: 1em 0 0 1em;
 				}
 
 					.tiles article:hover > .image {
@@ -2833,14 +2829,16 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			.tiles {
+			  padding-top: 1em;
 				margin: 0;
 			}
-
 				.tiles article {
-					width: 100%;
-					margin: 1.25em 0 0 0;
+					width: calc(45% - .5em);
+					margin: .5em 0 0 .5em;
 				}
-
+      .tiles article > a .content {
+        display: none;
+      }
 		}
 
 /* Header */
