@@ -1003,28 +1003,10 @@
     <lastmod>2024-12-04</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/hollywood_movies_subset.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/RestaurantTips.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr1/2425/labs/zf_formatting_resources.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-04</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/RestaurantTips2.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/dapr1/2122/lectures/dapR1_lec0_CourseIntro.html</loc>
@@ -1741,58 +1723,16 @@
     <lastmod>2024-12-06</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/wellbeing_rural.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/scs/rmd-bootcamp/05-echoeval.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-09-17</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/FOMOdataset.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/caffeinedrink.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/RestaurantSpending.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/science-faith-attitude.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr2/2324/labs/1_05_writeup_recap.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-11-29</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/DapR2_S1B2_PracticalPart1.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/DapR2_S1B2_PracticalPart2.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/dapr2/2324/lectures/dapr2_01_introlm_lecture.html</loc>
@@ -2857,12 +2797,6 @@
     <lastmod>2024-10-14</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/schoolmot.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr3/2425/labs/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -2879,84 +2813,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_jsup.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_ef_sdmt.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_apeage.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_apespecies.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_gadeduc.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_laughs.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/hangry1.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/hangry2.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/boxbreathe.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/police_performance.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/conduct_probs_scale.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/radakovic_das.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/petmoods_conf.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/dapr3/2324/lectures/dapr3_2324_00_intro.html</loc>
@@ -3451,178 +3307,10 @@
     <lastmod>2024-12-07</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/pets_seattle.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/passworddata.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/wechsler.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/surveydata_historical.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/usmr/2122/lectures/lecture_2.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/stroop.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_tread.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_tcaff.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pass_scores.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/gerritysim.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cbtanx.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_chisqdep.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/TipJoke.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/recalldata.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_slr.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_percept1.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/sleepdtf.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/simd20_educ.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/monkeyexplorers.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr2024.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/blink_setup.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/happycommute.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/monkeytoys.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/socmedmin.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_neuronews.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_jobsatpred.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/hangover_speed.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/ctmtoys.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/teamqual.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/usmr/2324/lectures/lecture04.html</loc>
@@ -3637,40 +3325,10 @@
     <lastmod>2024-12-07</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/invisibleg.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/mallow2.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/immersivelearning.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_wines.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/usmr/2324/lectures/lecture09.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/couchto5k.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/usmr/2324/lectures/lecture00.html</loc>
@@ -4879,12 +4537,6 @@
     <lastmod>2024-12-07</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/strooptask.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr1/2122/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -4903,102 +4555,6 @@
     <lastmod>2024-12-04</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/psych_survey.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cycling_mmwalk.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cycling_invrow.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pulse.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/rtdata.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pregnancies.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/HollywoodMovies.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/NeuronCounts.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/StorySpoilers.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/students_reading_scores.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/BodyTemp.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/seattlepets.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/CloseFriends.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/marriageages.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cbtsmoke.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/writers.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr1/2223/labs/index.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -5011,12 +4567,6 @@
     <lastmod>2024-12-04</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/dataset-ipeds-2012-subset2.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr1/2021/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -5027,24 +4577,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-04</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/Smiles.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/ExerciseHours.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/jobsat.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/dapr1/2324/</loc>
@@ -5131,48 +4663,6 @@
     <lastmod>2024-11-29</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/scs_study.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cognitive_experiment_3_by_2.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cognitive_experiment.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/laptop_vs_longhand.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/recall_med_coast.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/drunkdoor.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/QuitAttempts.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr2/2223/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -5183,24 +4673,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-11-29</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/handheight.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/riverview.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/wellbeing.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/dapr2/2223/lectures/dapr2_07_interactions2</loc>
@@ -5225,18 +4697,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-11-29</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lietraining.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/SenilityWAIS.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/dapr2/2122/</loc>
@@ -5275,168 +4735,6 @@
     <lastmod>2024-11-29</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/perfection.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/mental_rotation.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/msmr_monkeystatus.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_mindfuldecline.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/midlife_ape.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_lifesatscot.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/toy2.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/LAAwellbeing.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/stressint.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/drivingmusicwithin.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/dapr3_mannequin.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/crqeds.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/msmr_nssjobsat.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_mindfuldeclineFULL.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/stressweek1.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/stressweek_nested.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/stressweek_crossed.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cogdecline.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/abs_intervention.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/NGV.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/erm_belief.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/dapr3_tgu.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/lmm_bflpe.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/hangry.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pvt_bilingual.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/memorytap.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/msmr_trolley.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr3/2324/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -5473,64 +4771,10 @@
     <lastmod>2024-12-07</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/ef_music.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/ef_replication.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/bntmono.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/dapr3_decline.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/bflp.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/alcgad.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/dapr3_mindfuldecline.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/dapr3_mindfuldeclineFULL.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/dapr3/2324/lectures/dapr3_08_pca</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/conduct_probs.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/dapr3/2223/</loc>
@@ -5549,30 +4793,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/basketballconditions.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/bball_replication.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/data_HA.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/WPS_data.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/dapr3/2122/</loc>
@@ -5599,58 +4819,10 @@
     <lastmod>2024-12-07</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/toyexample.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/bballhrv.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/faq/lvp.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-06</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/dapr2_report1.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/passionpath.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/vaxdat.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cp_teachacad.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/job_performance.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/pgpets.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/usmr/2324/</loc>
@@ -5665,12 +4837,6 @@
     <lastmod>2024-12-07</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/usmr2023.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/usmr/2324/labs/lvp.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -5681,36 +4847,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/surveydata_allcourse22.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/dapr1_2122_report_data.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr2022.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/usmr_hrcaff.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/cogapoe4.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/usmr/2223/labs/lvp.html</loc>
@@ -5735,18 +4871,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/surveydata_allcourse.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/tomatogrowth.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/usmr/2021/</loc>
@@ -5791,82 +4915,10 @@
     <lastmod>2024-12-07</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/efsdmt.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/msmr_mindfuldecline.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/msmr_apeage.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/msmr_apespecies.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/msmr_gadeduc.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/jobperfbonus.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/conduct_problems_2.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/doom.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/edskill.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/msmr/2122/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/tpb2.txt</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/stressIQ.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/IQdatam.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/msmr/2122/labs/index.html</loc>
@@ -5899,24 +4951,6 @@
     <lastmod>2024-12-07</lastmod>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/data/schoolsabs.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/TPB_data.txt</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/teabiscuit.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/msmr/2223/labs/index.html</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -5945,18 +4979,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/basketballconditions_msmr.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/bballhrv_msmr.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_extra.html</loc>
@@ -5993,36 +5015,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/msmr/data/toyutility.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-12-07</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/MathsAchievement.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/kelly2010_replication.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/simsem.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://uoepsy.github.io/data/women_computer_science.csv</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2024-11-18</lastmod>
   </url>
   <url>
     <loc>https://uoepsy.github.io/msmr/2223/lectures/msmr_lec00_tidyverse-markdown.html</loc>
