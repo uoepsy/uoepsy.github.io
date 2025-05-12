@@ -48,12 +48,12 @@ C) how to update your R packages.
     - RStudio
 2. Install R
     - Go to <https://cran.r-project.org/bin/windows/base/> 
-    - Click __Download R-4.4.0 for Windows__
+    - Click __Download R-4.5.0 for Windows__
     - Open the installer and follow the instructions while keeping the default options
 3. Install RTools
     - Go to <https://cran.r-project.org/bin/windows/Rtools/> 
-    - Click __RTools 4.4__
-    - Click __Rtools44 installer__
+    - Click __RTools 4.5__
+    - Click __64-bit ARM Rtools45 installer__
     - Open the installer and follow the instructions while keeping the default options
 4. Install RStudio
     - Go to <https://posit.co/download/rstudio-desktop/>, ignore the "install R" stuff (you've done that already). In the table of RStudio installers, find the one for your operating system and download it.  
@@ -69,8 +69,8 @@ C) how to update your R packages.
 2. Install R
     - Check which Apple PC you have. On the top-left of your screen click the Apple logo, click About This Mac, note what the Processor line says. 
     - Go to <https://cran.r-project.org/bin/macosx/> and download:  
-        - `R-4.4.0-x86_64.pkg` if you have an Intel-based macOS PC
-        - `R-4.4.0-arm64.pkg` if you have an Apple silicon arm64 macOS PC.
+        - `R-4.5.0-x86_64.pkg` if you have an Intel-based macOS PC
+        - `R-4.5.0-arm64.pkg` if you have an Apple silicon arm64 macOS PC.
     - Open the installer and follow the instructions while keeping the default options.
 3. Install XQuartz
     - Download XQuartz: <https://www.xquartz.org/>
@@ -127,7 +127,7 @@ os             << this will be different for each of you >>
 system         << this will be different for each of you >>        
 status                                     
 major          4                           
-minor          4.0                         
+minor          5.0                         
 << and more lines which you can ignore... >>
 ```
 
