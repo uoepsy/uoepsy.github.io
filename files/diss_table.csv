@@ -1,0 +1,11 @@
+﻿method,UG,PG
+"bivariate tests (t, chisq, correlation)",DAPR1,USMR
+general linear model,DAPR2,USMR
+traditional ANOVA/ANCOVA,,
+generalised linear model,DAPR2 (logistic),USMR (logistic)
+(generalised) mixed effects models,DAPR3,MSMR
+non-linear,,MSMR (just polynomial)
+"PCA, EFA",DAPR3,MSMR
+CFA,(DAPR3 from 25-26),MSMR
+SEM,,MSMR
+mediation,"We would generally advise against using mediation in student dissertations. As a general note, there are a lot of issues with mediation analyses which are just exacerbated in cross-sectional mediation designs that we often see in student projects. For more info please see this great blog post and the papers linked in its opening paragraph - https://www.the100.ci/2025/03/20/reviewer-notes-thats-a-very-nice-mediation-analysis-you-have-there-it-would-be-a-shame-if-something-happened-to-it/  ",
