@@ -8,7 +8,7 @@ format:
 editor: visual
 ---
 
-# Introduction
+## Introduction
 
 R is the name of both:
 
@@ -35,11 +35,11 @@ C) how to update your R packages.
 
 
 
-# A. Installing R and RStudio {#install-rstudio}
+## A. Installing R and RStudio {#install-rstudio}
 
 ::: {.panel-tabset}
 
-## Windows PC
+### Windows PC
 
 1. If you have a previous R installation, please uninstall the following software from your PC if you have it:
     - R
@@ -59,7 +59,7 @@ C) how to update your R packages.
     - Open the installer and follow the instructions while keeping the default options.
 
 
-## Apple macOS PC
+### Apple macOS PC
 
 1. If you have a previous R installation, please uninstall the following software from your PC if you have it:
     - R
@@ -79,12 +79,12 @@ C) how to update your R packages.
     - Open the installer and follow the instructions while keeping the default options.
 
 
-## Chromebooks/Ipads etc
+### Chromebooks/Ipads etc
 
 You cannot install R or RStudio on Chromebooks or Ipads.  
 
 ::: {.callout-important icon='false'}
-### During week 1 of the course
+#### During week 1 of the course
 
 In your first week of DAPR2/3/USMR, you should access the RStudio Server provided by Noteable. To access it follow the steps below:
 
@@ -97,7 +97,7 @@ e. Click "Start"
 
 ::: {.callout-note collapse="true" icon='false'}
 
-### From week 2 onwards
+#### From week 2 onwards
 
 You can use RStudio on the PPLS Server.  
 
@@ -120,15 +120,15 @@ Please fill out [this form](https://forms.office.com/r/Pc5aqhyveE) and wait for 
 
 
 
-# B. Updating R and RStudio
+## B. Updating R and RStudio
 
-## B.1 Updating R
+### B.1 Updating R
 
 If your R version or packages are old, you might get errors or find that the code required to run some examples is different from the one provided.
 
 Recall that R is the underlying programming language, while RStudio is just a wrapper around R providing a nicer user interface (text editor, file explorer and graphical window). Updating RStudio (the interface) will not update the R programming language which runs your code.  
 
-### Check which R version you have
+#### Check which R version you have
 
 Check that your R version is up-to-date by typing into the R console:
 
@@ -152,11 +152,11 @@ minor          5.1
 Please check here: https://www.r-project.org/ to see what the most recent version is. If you have a different number for "major" than the most recent, it may well be time for an update.  
 
 
-### Updating R
+#### Updating R
 
 ::: {.panel-tabset}
 
-#### Windows PC
+##### Windows PC
 
 Open RStudio, and type the following in the R console. Press Enter to run the code.
 
@@ -166,7 +166,7 @@ installr::updateR()
 ```
 
 
-#### Apple macOS PC
+##### Apple macOS PC
 
 1. Follow step 2 from the instructions in [section A](#install-r) in order to install the newest version of R.  
 2. In RStudio, look in the top menu for Tools > Global Options. In the "R General" tab, you can choose which option of R you want to use. Make sure this is set to the one you just downloaded.  
@@ -174,7 +174,7 @@ installr::updateR()
 :::
 
 
-## B.2 Updating RStudio
+### B.2 Updating RStudio
 
 Check if you need to update RStudio by clicking __Help__ and then __Check for updates__.
 
@@ -182,7 +182,7 @@ If an update is available, follow step 4 in [section A](#install-rstudio).
 
 
 
-# C. Updating R packages {#update-packages}
+## C. Updating R packages {#update-packages}
 
 Open RStudio. In the R console, type the following and press Enter:
 
@@ -193,7 +193,7 @@ update.packages(ask = FALSE)
 
 
 
-# History
+## History
 
 - Last updated by UN in September 2025 for R version 4.5.1
 - Last updated by UN in May 2024 for R version 4.4.0
