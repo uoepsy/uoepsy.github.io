@@ -88,6 +88,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#b.2-updating-rstudio" id="toc-b.2-updating-rstudio" class="nav-link" data-scroll-target="#b.2-updating-rstudio">B.2 Updating RStudio</a></li>
   </ul></li>
   <li><a href="#update-packages" id="toc-update-packages" class="nav-link" data-scroll-target="#update-packages">C. Updating R packages</a></li>
+  <li><a href="#optional-windows-pcs" id="toc-optional-windows-pcs" class="nav-link" data-scroll-target="#optional-windows-pcs">Optional (Windows PCs)</a></li>
   <li><a href="#history" id="toc-history" class="nav-link" data-scroll-target="#history">History</a></li>
   </ul>
 </nav>
@@ -158,13 +159,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <ul>
 <li>Go to <a href="https://cran.r-project.org/bin/windows/base/" class="uri">https://cran.r-project.org/bin/windows/base/</a></li>
 <li>Click <strong>Download R-4.5.1 for Windows</strong></li>
-<li>Open the installer and follow the instructions while keeping the default options</li>
-</ul></li>
-<li>Install RTools
-<ul>
-<li>Go to <a href="https://cran.r-project.org/bin/windows/Rtools/" class="uri">https://cran.r-project.org/bin/windows/Rtools/</a></li>
-<li>Click <strong>RTools 4.5</strong></li>
-<li>Click <strong>Rtools45 installer</strong></li>
 <li>Open the installer and follow the instructions while keeping the default options</li>
 </ul></li>
 <li>Install RStudio
@@ -313,6 +307,16 @@ minor          5.1
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">options</span>(<span class="at">pkgType =</span> <span class="st">"binary"</span>)</span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="fu">update.packages</span>(<span class="at">ask =</span> <span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
+</section>
+<section id="optional-windows-pcs" class="level2">
+<h2 class="anchored" data-anchor-id="optional-windows-pcs">Optional (Windows PCs)</h2>
+<p>If you use a Windows PC and are trying to install packages which are not on CRAN, follow the additional steps below to install RTools:</p>
+<ol type="1">
+<li>Go to <a href="https://cran.r-project.org/bin/windows/Rtools/" class="uri">https://cran.r-project.org/bin/windows/Rtools/</a></li>
+<li>Click <strong>RTools 4.5</strong></li>
+<li>Click <strong>Rtools45 installer</strong></li>
+<li>Open the installer and follow the instructions while keeping the default options</li>
+</ol>
 </section>
 <section id="history" class="level2">
 <h2 class="anchored" data-anchor-id="history">History</h2>

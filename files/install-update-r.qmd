@@ -43,12 +43,7 @@ C)  how to update your R packages.
     -   Go to <https://cran.r-project.org/bin/windows/base/>
     -   Click **Download R-4.5.1 for Windows**
     -   Open the installer and follow the instructions while keeping the default options
-3.  Install RTools
-    -   Go to <https://cran.r-project.org/bin/windows/Rtools/>
-    -   Click **RTools 4.5**
-    -   Click **Rtools45 installer**
-    -   Open the installer and follow the instructions while keeping the default options
-4.  Install RStudio
+3.  Install RStudio
     -   Go to <https://posit.co/download/rstudio-desktop/>, ignore the "install R" stuff (you've done that already). In the table of RStudio installers, find the one for your operating system and download it.\
     -   Open the installer and follow the instructions while keeping the default options.
 
@@ -169,6 +164,17 @@ Open RStudio. In the R console, type the following and press Enter:
 options(pkgType = "binary")
 update.packages(ask = FALSE)
 ```
+
+
+## Optional (Windows PCs)
+
+If you use a Windows PC and are trying to install packages which are not on CRAN, follow the additional steps below to install RTools:
+
+1. Go to <https://cran.r-project.org/bin/windows/Rtools/>
+1. Click **RTools 4.5**
+1. Click **Rtools45 installer**
+1. Open the installer and follow the instructions while keeping the default options
+
 
 ## History
 
