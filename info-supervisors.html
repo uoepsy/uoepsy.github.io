@@ -87,9 +87,11 @@
 	     <li>Statistics is not a performance. well-understood simpler methods should be preferred over poorly-understood complexities. This is especially true when the purpose of UG and MSc dissertations is to be a learning activity for students.<br>We recommend having a 'back-up plan' for each project that involves simpler analyses (and a lengthier limitations section) should you be paired with a student who is less confident with stats.</li><br>
 	     
 	      
-	     <li>A lot of projects we see are ill-defined. While the dissertation should provide an element of autonomy for students to direct their own project, too often we see students at the analysis stage with one or more of the following problems: <b>1)</b> no clear research question; <b>2)</b> an apparently clear research question but no clear estimand (see <a href="https://journals.sagepub.com/doi/10.1177/00031224211004187" target="_blank">Lundberg et al., 2021</a>); <b>3)</b> little understanding of the way in which data were collected.<br>When proposing projects for dissertations, we suggest supervisors keep a more fully sketched out timeline of where they might expect the project to go. For more independent students projects may take different directions, but for others this would allow supervisors to have a clear direction in which to guide struggling students.</li><br>
+	     <li>A lot of the students that end up seeking our help have quite ill-defined projects. While the dissertation should provide an element of autonomy for students to direct their own project, too often we see students at the analysis stage with one or more of the following problems: <b>1)</b> no clear research question; <b>2)</b> a research goal that appears clear at a high level but without specifying a concrete statistical quantity required for a precise answer, leaving the actual objective of the analysis ambiguous; <b>3)</b> little understanding of the way in which data were collected.<br>When proposing projects for dissertations, we suggest supervisors keep a more fully sketched out timeline of where they might expect the project to go. For more independent students projects may take different directions, but for others this would allow supervisors to have a clear direction in which to guide struggling students.</li><br>
 	     
-	    <li>Know what your students are familiar with! Please see the <a href="https://uoepsy.github.io">course pages</a>for information on what typical students have been exposed to in the statistics courses. For an overview, please consult the table below.<br>For more advanced analyses, please ensure you as supervisor are able to provide students with the assistance that they might require</li><br>
+	    <li>Know the curriculum! Please see the <a href="https://uoepsy.github.io">course pages</a> for information on what typical students have been exposed to in the statistics courses. For an overview, please consult the table below.<br>For more advanced analyses, please ensure you as supervisor are able to provide students with the assistance that they might require</li><br>
+	    
+	    <li>What our support sessions are for. We are here to help only on things that you cannot help with. This may be assistance with coding issues if you are not familiar with R, or a discussion with your students <i>and yourself</i> if you would like a second opinion on specific statistical problems. We are not here to help students figure out their research questions or their general analysis strategy.</li><br>
 	     
 	 </ol>
 	 
@@ -114,13 +116,24 @@
     </tr>
     <tr>
         <td style="text-align:left;"> traditional ANOVA/ANCOVA </td>
-        <td style="text-align:center;">  </td>
-        <td style="text-align:center;">  </td>
+        <td colspan="2" style="text-align:center;font-size: .8em"> Students on all our courses are taught a linear modelling perspective, meaning that traditional ANOVA/ANCOVA approaches will be less familiar. However, the ANOVA/ANCOVA approach is simply a different way to evaluate a linear regression models. A document for students explaining the link between the two analytical approaches will be ready for the 2026/27 dissertation cohort.</td>
+    </tr>
+    <tr>
+        <td style="text-align:left;"> assumptions </td>
+        <td colspan="2" style="text-align:center; font-size: .8em"> 
+        
+        As our statistics courses take a model based approach, discussions of statistical assumptions focus on model residuals. It's worth reminding students that it is not the outcome variable but the <i>residuals</i> that we should be looking at. Our courses tend to encourage students to assess assumptions through visual inspection of various plots of residuals, rather than via performing tests (e.g, Shapiro-Wilk, Breusch-Pagan etc), as these are generally too sensitive to sample size. On dealing with situations where assumptions appear violated, the first port of call for students is to consider if there is a part of the theorised data generating process that is not reflected in their model, leading to the apparent violation (e.g., this could be an omitted variable/interaction/higher order term). For situations where this is not possible, students (both UG and PG) are shown how to bootstrap standard errors to avoid having to make these distributional assumptions.<br><a href="https://uoepsy.github.io/usmr/2526/readings/12_assumptdiag.html" target="_blank">This may be a useful page</a> to direct your students to for the relevant assumptions of linear regression models, and <a href="https://uoepsy.github.io/lmm/00_lm_assumpt.html" target="_blank">this page covers some of the more common 'fixes'</a> that are people in various fields tend to make (transformations, huber-white SEs, WLS, Bootstrap etc).
+        
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:left;"> non-parametric tests </td>
+        <td colspan="2" style="text-align:center;font-size: .8em"> students will see in passing the various non-parametric alternatives to common tests, such as Wilcoxon, Kruskal-Wallis, Mann-Whitney etc., but they will not have had direct experience of these. We wouldn't expect them to be too troubled in equating them with their parametrics versions, or they can be viewed through a different lens as simply linear models of ranked outcomes, rather than linear models of outcomes in the original metric.</td>
     </tr>
     <tr>
         <td style="text-align:left;"> generalised linear model </td>
         <td style="text-align:center;"> DAPR2 (logistic) </td>
-        <td style="text-align:center;"> USMR (logistic) </td>
+        <td style="text-align:center;"> USMR (logistic, poisson) </td>
     </tr>
     <tr>
         <td style="text-align:left;"> (generalised) mixed effects models </td>
@@ -128,7 +141,7 @@
         <td style="text-align:center;"> MSMR </td>
     </tr>
     <tr>
-        <td style="text-align:left;"> non-linear </td>
+        <td style="text-align:left;"> non-linear trends </td>
         <td style="text-align:center;">  </td>
         <td style="text-align:center;"> MSMR (just polynomial) </td>
     </tr>
@@ -143,13 +156,13 @@
         <td style="text-align:center;"> MSMR </td>
     </tr>
     <tr>
-        <td style="text-align:left;"> SEM </td>
+        <td style="text-align:left;"> Path Analysis & SEM </td>
         <td style="text-align:center;">  </td>
         <td style="text-align:center;"> MSMR </td>
     </tr>
     <tr>
-        <td style="text-align:left;"> mediation </td>
-        <td colspan="2" style="text-align:center;"> We would generally advise against using mediation in student dissertations. As a general note, there are a lot of issues with mediation analyses which are only made even worse in cross-sectional mediation designs that we often see in student projects. For more info please see this <a href="https://www.the100.ci/2025/03/20/reviewer-notes-thats-a-very-nice-mediation-analysis-you-have-there-it-would-be-a-shame-if-something-happened-to-it/" target="_blank">great blog post and the papers linked in its opening paragraph</a></td>
+        <td style="text-align:left;"> Mediation </td>
+        <td colspan="2" style="text-align:center;font-size: .8em"> We would generally advise against using mediation in student dissertations. As a general note, there are a lot of issues with mediation analyses which are only made even worse in cross-sectional mediation designs that we often see in student projects. For more info please see this <a href="https://www.the100.ci/2025/03/20/reviewer-notes-thats-a-very-nice-mediation-analysis-you-have-there-it-would-be-a-shame-if-something-happened-to-it/" target="_blank">great blog post and the papers linked in its opening paragraph</a></td>
     </tr>
     </tbody>
     </table>
@@ -163,6 +176,8 @@
      </div>
             
 
+        <!---
+        
         <hr style="margin-bottom:10px">
         <h2>Useful Links</h2>
             <div class="fullcol">
@@ -172,6 +187,7 @@
                <li>The <a href="http://www.drps.ed.ac.uk/" target="_blank">DRPS pages</a> provide information on the programmes of study offered by the University of Edinburgh. You can browse the courses in the Psychology Department <a href="http://www.drps.ed.ac.uk/25-26/dpt/cx_sb_psyl.htm" target="_blank">here.</a></li>
             </ul>
             </div>
+        --->
 							
 		</div>
 	</div>
@@ -185,11 +201,7 @@
 								<ul class="icons">
 									<li><a href="https://twitter.com/UoE_Psychology" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="https://www.facebook.com/edinburghunipsychology" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<!-- <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li> -->
-									<!-- <li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li> -->
 									<li><a href="https://github.com/uoepsy" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
-									<!-- <li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li> -->
-									<!-- <li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li> -->
 									<li><a href="mailto:ppls.psych.stats@ed.ac.uk?subject=Mail from website" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
 								</ul>
 							</section>
