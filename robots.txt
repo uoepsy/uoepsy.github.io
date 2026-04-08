@@ -1,1 +1,4 @@
-Sitemap: https://uoepsy.github.io/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://uoepsy.github.io/sitemap2.xml
