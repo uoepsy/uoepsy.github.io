@@ -236,11 +236,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://uoepsy.github.io/msmr/data/index.html.bak</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://uoepsy.github.io/msmr/functions/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>1</priority>
