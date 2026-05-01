@@ -34,14 +34,17 @@ library(xml2)
 root <- xml_new_root("urlset", 
                      xmlns = "http://www.sitemaps.org/schemas/sitemap/0.9")
 
+
+
 for (u in allurl) {
     url_node <- xml_add_child(root, "url")
     xml_add_child(url_node, "loc", u)
+    xml_add_child(url_node, "changefreq", "monthly")
     if(grepl("index.html",u)){
-        xml_add_child(url_node, "priority", 1)
+        xml_add_child(url_node, "priority", 1.0)
     } else {
-        xml_add_child(url_node, "priority", .5)
+        xml_add_child(url_node, "priority", 0.5)
     }
-    xml_add_child(url_node, "changefreq", "always")
+    #xml_add_child(url_node, "changefreq", "always")
 }
 write_xml(root, "sitemap.xml")
