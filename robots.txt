@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://uoepsy.github.io/sitemap2.xml
+Sitemap: https://uoepsy.github.io/sitemap.xml
