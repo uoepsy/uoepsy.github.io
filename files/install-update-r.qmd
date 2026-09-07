@@ -41,7 +41,7 @@ C)  how to update your R packages.
     -   RStudio
 2.  Install R
     -   Go to <https://cran.r-project.org/bin/windows/base/>
-    -   Click **Download R-4.5.1 for Windows**
+    -   Click **Download R-4.6.1 for Windows**
     -   Open the installer and follow the instructions while keeping the default options
 3.  Install RStudio
     -   Go to <https://posit.co/download/rstudio-desktop/>, ignore the "install R" stuff (you've done that already). In the table of RStudio installers, find the one for your operating system and download it.\
@@ -51,55 +51,48 @@ C)  how to update your R packages.
 
 1.  If you have a previous R installation, please uninstall the following software from your PC if you have it:
     -   R
-    -   XQuartz
     -   RStudio
 2.  Install R
     -   Check which Apple PC you have. On the top-left of your screen click the Apple logo, click About This Mac, note what the Processor line says.
     -   Go to <https://cran.r-project.org/bin/macosx/> and download:
-        -   `R-4.5.1-arm64.pkg` if you have an Apple silicon arm64 macOS PC.
-        -   `R-4.5.1-x86_64.pkg` if you have an Intel-based macOS PC
+        -   `R-4.6.1-arm64.pkg` if you have an Apple silicon arm64 macOS PC.
+        -   `R-4.6.1-x86_64.pkg` if you have an Intel-based macOS PC
     -   Open the installer and follow the instructions while keeping the default options.
-3.  Install XQuartz
-    -   Download XQuartz: <https://www.xquartz.org/>
-    -   Open the installer and follow the instructions while keeping the default options
-4.  Install RStudio
+3.  Install RStudio
     -   Go to <https://posit.co/download/rstudio-desktop/>, ignore the "install R" stuff (you've done that already). In the table of RStudio installers, find the one for your operating system and download it.\
     -   Open the installer and follow the instructions while keeping the default options.
+    
+    
+<!-- 4. (Optional) Install XQuartz -->
+<!--     -   Download XQuartz: <https://www.xquartz.org/> -->
+<!--     -   Open the installer and follow the instructions while keeping the default options -->
 
 ### Chromebooks/Ipads etc
 
-You cannot install R or RStudio on Chromebooks or Ipads.
+Installing R or RStudio on Ipads is not possible, and on Chromebooks it requires quite a lot of work. 
 
-::: {.callout-important icon="false"}
-#### During week 1 of the course
+<!-- ::: {.callout-important icon="false"} -->
+<!-- #### During week 1 of the course -->
 
-In your first week of DAPR2/3/USMR, you should access the RStudio Server provided by Noteable. To access it follow the steps below:
+<!-- In your first week of DAPR2/3/USMR, you should access the RStudio Server provided by Noteable. To access it follow the steps below: -->
 
-a.  Go to the course LEARN page
-b.  Scroll to the bottom of the LEARN page
-c.  Click "RStudio for Chromebook/Ipad Users (Noteable)"
-d.  Select "RStudio" from the dropdown menu
-e.  Click "Start"
-:::
+<!-- a.  Go to the course LEARN page -->
+<!-- b.  Scroll to the bottom of the LEARN page -->
+<!-- c.  Click "RStudio for Chromebook/Ipad Users (Noteable)" -->
+<!-- d.  Select "RStudio" from the dropdown menu -->
+<!-- e.  Click "Start" -->
+<!-- ::: -->
 
-::: {.callout-note collapse="true" icon="false"}
-#### From week 2 onwards
-
-You can use RStudio on the PPLS Server.
-
-**First try these steps:**
+Instead, for your work on the statistics courses in the psychology department, you can use RStudio on the PPLS Server:  
 
 1.  Log in to [EASE](https://www.ease.ed.ac.uk/) using your university UUN and password
 
-2.  Set your RStudio password [here](https://rstudio.ppls.ed.ac.uk/setpass.php), the username will be the same as your UUN (make sure you type your UUN correctly!)
-
-3.  Access the server from <https://rstudio.ppls.ed.ac.uk> using your university UUN and the password you set above in (2).
+2.  Access the server from <https://rstudio.ppls.ed.ac.uk>.
 
 **If that didn't work:**
 
 Please fill out [this form](https://forms.office.com/r/Pc5aqhyveE) and wait for an email from us with instructions.
-:::
-:::::
+
 
 ## B. Updating R and RStudio
 
@@ -126,7 +119,7 @@ os             << this will be different for each of you >>
 system         << this will be different for each of you >>        
 status                                     
 major          4                           
-minor          5.1                         
+minor          6.1                         
 << and more lines which you can ignore... >>
 ```
 
@@ -165,19 +158,18 @@ options(pkgType = "binary")
 update.packages(ask = FALSE)
 ```
 
-
 ## Optional (Windows PCs)
 
 If you use a Windows PC and are trying to install packages which are not on CRAN, follow the additional steps below to install RTools:
 
-1. Go to <https://cran.r-project.org/bin/windows/Rtools/>
-1. Click **RTools 4.5**
-1. Click **Rtools45 installer**
-1. Open the installer and follow the instructions while keeping the default options
-
+1.  Go to <https://cran.r-project.org/bin/windows/Rtools/>
+2.  Click **RTools 4.5**
+3.  Click **Rtools45 installer**
+4.  Open the installer and follow the instructions while keeping the default options
 
 ## History
 
+-   Last updated by JK in September 2026 for R version 4.6.1
 -   Last updated by UN in September 2025 for R version 4.5.1
 -   Last updated by UN in May 2024 for R version 4.4.0
 -   Last updated by UN in September 2023 for R version 4.3.1

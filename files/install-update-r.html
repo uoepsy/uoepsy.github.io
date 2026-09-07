@@ -67,7 +67,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="install-update-r_files/libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="install-update-r_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="install-update-r_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="install-update-r_files/libs/bootstrap/bootstrap-10daa034703793678e481cc8cee6d76f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="install-update-r_files/libs/bootstrap/bootstrap-32162a2fca7cb0439643f2faaab1edf3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -82,14 +82,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#install-rstudio" id="toc-install-rstudio" class="nav-link" data-scroll-target="#install-rstudio">A. Installing R and RStudio</a></li>
-  <li><a href="#b.-updating-r-and-rstudio" id="toc-b.-updating-r-and-rstudio" class="nav-link" data-scroll-target="#b.-updating-r-and-rstudio">B. Updating R and RStudio</a>
-  <ul class="collapse">
-  <li><a href="#b.1-updating-r" id="toc-b.1-updating-r" class="nav-link" data-scroll-target="#b.1-updating-r">B.1 Updating R</a></li>
-  <li><a href="#b.2-updating-rstudio" id="toc-b.2-updating-rstudio" class="nav-link" data-scroll-target="#b.2-updating-rstudio">B.2 Updating RStudio</a></li>
-  </ul></li>
-  <li><a href="#update-packages" id="toc-update-packages" class="nav-link" data-scroll-target="#update-packages">C. Updating R packages</a></li>
-  <li><a href="#optional-windows-pcs" id="toc-optional-windows-pcs" class="nav-link" data-scroll-target="#optional-windows-pcs">Optional (Windows PCs)</a></li>
-  <li><a href="#history" id="toc-history" class="nav-link" data-scroll-target="#history">History</a></li>
   </ul>
 </nav>
 </div>
@@ -145,9 +137,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="install-rstudio" class="level2">
 <h2 class="anchored" data-anchor-id="install-rstudio">A. Installing R and RStudio</h2>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Windows PC</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">Apple macOS PC</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">Chromebooks/Ipads etc</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true" href="">Windows PC</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false" href="">Apple macOS PC</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-3" role="tab" aria-controls="tabset-2-3" aria-selected="false" href="">Chromebooks/Ipads etc</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-4" role="tab" aria-controls="tabset-2-4" aria-selected="false" href="">B.1 Updating R</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-5-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-5" role="tab" aria-controls="tabset-2-5" aria-selected="false" href="">B.2 Updating RStudio</a></li></ul>
 <div class="tab-content">
-<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
 <ol type="1">
 <li>If you have a previous R installation, please uninstall the following software from your PC if you have it:
 <ul>
@@ -158,7 +150,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Install R
 <ul>
 <li>Go to <a href="https://cran.r-project.org/bin/windows/base/" class="uri">https://cran.r-project.org/bin/windows/base/</a></li>
-<li>Click <strong>Download R-4.5.1 for Windows</strong></li>
+<li>Click <strong>Download R-4.6.1 for Windows</strong></li>
 <li>Open the installer and follow the instructions while keeping the default options</li>
 </ul></li>
 <li>Install RStudio
@@ -169,12 +161,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </ul></li>
 </ol>
 </div>
-<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
 <ol type="1">
 <li>If you have a previous R installation, please uninstall the following software from your PC if you have it:
 <ul>
 <li>R</li>
-<li>XQuartz</li>
 <li>RStudio</li>
 </ul></li>
 <li>Install R
@@ -182,15 +173,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Check which Apple PC you have. On the top-left of your screen click the Apple logo, click About This Mac, note what the Processor line says.</li>
 <li>Go to <a href="https://cran.r-project.org/bin/macosx/" class="uri">https://cran.r-project.org/bin/macosx/</a> and download:
 <ul>
-<li><code>R-4.5.1-arm64.pkg</code> if you have an Apple silicon arm64 macOS PC.</li>
-<li><code>R-4.5.1-x86_64.pkg</code> if you have an Intel-based macOS PC</li>
+<li><code>R-4.6.1-arm64.pkg</code> if you have an Apple silicon arm64 macOS PC.</li>
+<li><code>R-4.6.1-x86_64.pkg</code> if you have an Intel-based macOS PC</li>
 </ul></li>
 <li>Open the installer and follow the instructions while keeping the default options.</li>
-</ul></li>
-<li>Install XQuartz
-<ul>
-<li>Download XQuartz: <a href="https://www.xquartz.org/" class="uri">https://www.xquartz.org/</a></li>
-<li>Open the installer and follow the instructions while keeping the default options</li>
 </ul></li>
 <li>Install RStudio
 <ul>
@@ -199,61 +185,33 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Open the installer and follow the instructions while keeping the default options.</li>
 </ul></li>
 </ol>
+<!-- 4. (Optional) Install XQuartz -->
+<!--     -   Download XQuartz: <https://www.xquartz.org/> -->
+<!--     -   Open the installer and follow the instructions while keeping the default options -->
 </div>
-<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
-<p>You cannot install R or RStudio on Chromebooks or Ipads.</p>
-<div class="callout callout-style-default callout-important no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-During week 1 of the course
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>In your first week of DAPR2/3/USMR, you should access the RStudio Server provided by Noteable. To access it follow the steps below:</p>
-<ol type="a">
-<li>Go to the course LEARN page</li>
-<li>Scroll to the bottom of the LEARN page</li>
-<li>Click “RStudio for Chromebook/Ipad Users (Noteable)”</li>
-<li>Select “RStudio” from the dropdown menu</li>
-<li>Click “Start”</li>
-</ol>
-</div>
-</div>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-From week 2 onwards
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>You can use RStudio on the PPLS Server.</p>
-<p><strong>First try these steps:</strong></p>
+<div id="tabset-2-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-3-tab">
+<p>Installing R or RStudio on Ipads is not possible, and on Chromebooks it requires quite a lot of work.</p>
+<!-- ::: {.callout-important icon="false"} -->
+<!-- #### During week 1 of the course -->
+<!-- In your first week of DAPR2/3/USMR, you should access the RStudio Server provided by Noteable. To access it follow the steps below: -->
+<!-- a.  Go to the course LEARN page -->
+<!-- b.  Scroll to the bottom of the LEARN page -->
+<!-- c.  Click "RStudio for Chromebook/Ipad Users (Noteable)" -->
+<!-- d.  Select "RStudio" from the dropdown menu -->
+<!-- e.  Click "Start" -->
+<!-- ::: -->
+<p>Instead, for your work on the statistics courses in the psychology department, you can use RStudio on the PPLS Server:</p>
 <ol type="1">
 <li><p>Log in to <a href="https://www.ease.ed.ac.uk/">EASE</a> using your university UUN and password</p></li>
-<li><p>Set your RStudio password <a href="https://rstudio.ppls.ed.ac.uk/setpass.php">here</a>, the username will be the same as your UUN (make sure you type your UUN correctly!)</p></li>
-<li><p>Access the server from <a href="https://rstudio.ppls.ed.ac.uk" class="uri">https://rstudio.ppls.ed.ac.uk</a> using your university UUN and the password you set above in (2).</p></li>
+<li><p>Access the server from <a href="https://rstudio.ppls.ed.ac.uk" class="uri">https://rstudio.ppls.ed.ac.uk</a>.</p></li>
 </ol>
 <p><strong>If that didn’t work:</strong></p>
 <p>Please fill out <a href="https://forms.office.com/r/Pc5aqhyveE">this form</a> and wait for an email from us with instructions.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 <section id="b.-updating-r-and-rstudio" class="level2">
 <h2 class="anchored" data-anchor-id="b.-updating-r-and-rstudio">B. Updating R and RStudio</h2>
-<section id="b.1-updating-r" class="level3">
-<h3 class="anchored" data-anchor-id="b.1-updating-r">B.1 Updating R</h3>
+</section>
+</div>
+<div id="tabset-2-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-4-tab">
 <p>If your R version or packages are old, you might get errors or find that the code required to run some examples is different from the one provided.</p>
 <p>Recall that R is the underlying programming language, while RStudio is just a wrapper around R providing a nicer user interface (text editor, file explorer and graphical window). Updating RStudio (the interface) will not update the R programming language which runs your code.</p>
 <section id="check-which-r-version-you-have" class="level4">
@@ -267,23 +225,23 @@ os             &lt;&lt; this will be different for each of you &gt;&gt;
 system         &lt;&lt; this will be different for each of you &gt;&gt;        
 status                                     
 major          4                           
-minor          5.1                         
+minor          6.1                         
 &lt;&lt; and more lines which you can ignore... &gt;&gt;</code></pre>
 <p>Please check here: https://www.r-project.org/ to see what the most recent version is. If you have a different number for “major” than the most recent, it may well be time for an update.</p>
 </section>
 <section id="updating-r" class="level4">
 <h4 class="anchored" data-anchor-id="updating-r">Updating R</h4>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true" href="">Windows PC</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false" href="">Apple macOS PC</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Windows PC</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">Apple macOS PC</a></li></ul>
 <div class="tab-content">
-<div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
 <p>Open RStudio, and type the following in the R console. Press Enter to run the code.</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"installr"</span>)</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>installr<span class="sc">::</span><span class="fu">updateR</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </div>
-<div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
 <ol type="1">
 <li>Follow step 2 from the instructions in <a href="#install-r">section A</a> in order to install the newest version of R.<br>
 </li>
@@ -293,13 +251,10 @@ minor          5.1
 </div>
 </div>
 </section>
-</section>
-<section id="b.2-updating-rstudio" class="level3">
-<h3 class="anchored" data-anchor-id="b.2-updating-rstudio">B.2 Updating RStudio</h3>
+</div>
+<div id="tabset-2-5" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-5-tab">
 <p>Check if you need to update RStudio by clicking <strong>Help</strong> and then <strong>Check for updates</strong>.</p>
 <p>If an update is available, follow step 4 in <a href="#install-rstudio">section A</a>.</p>
-</section>
-</section>
 <section id="update-packages" class="level2">
 <h2 class="anchored" data-anchor-id="update-packages">C. Updating R packages</h2>
 <p>Open RStudio. In the R console, type the following and press Enter:</p>
@@ -321,6 +276,7 @@ minor          5.1
 <section id="history" class="level2">
 <h2 class="anchored" data-anchor-id="history">History</h2>
 <ul>
+<li>Last updated by JK in September 2026 for R version 4.6.1</li>
 <li>Last updated by UN in September 2025 for R version 4.5.1</li>
 <li>Last updated by UN in May 2024 for R version 4.4.0</li>
 <li>Last updated by UN in September 2023 for R version 4.3.1</li>
@@ -329,6 +285,10 @@ minor          5.1
 </ul>
 <p>Department of Psychology<br>
 The University of Edinburgh</p>
+</section>
+</div>
+</div>
+</div>
 </section>
 
 </main>
