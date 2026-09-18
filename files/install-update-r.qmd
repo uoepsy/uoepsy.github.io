@@ -12,15 +12,15 @@ editor: visual
 
 R is the name of both:
 
--   the R programming language, i.e. the language you use to tell the PC what computations to perform; and
--   the R interpreter, which actually executes the computations written in the R language.
+- the R programming language, i.e. the language you use to tell the PC what computations to perform; and
+- the R interpreter, which actually executes the computations written in the R language.
 
 RStudio is a user-friendly interface around R that makes the programming experience much nicer. It bundles together
 
--   a file editor panel,
--   a console panel with the R interpreter,
--   an environment panel showing all the objects you have created
--   a files and plots panel to see your PC files and the plots you create.
+- a file editor panel,
+- a console panel with the R interpreter,
+- an environment panel showing all the objects you have created
+- a files and plots panel to see your PC files and the plots you create.
 
 The programming language R comes with built-in functionality, like computing the square root with the `sqrt()` function. Over the years, R users have created lots of additional functionalities that is available on demand. If you particular application requires extra functionality not available with the basic R installation, you can add it by *installing packages*. A package is an additional bit of functionality and it needs to be installed only once to bring it from the web to your own R installation. However, it is also important to keep packages updated once or twice a year.
 
@@ -32,67 +32,75 @@ C)  how to update your R packages.
 
 ## A. Installing R and RStudio {#install-rstudio}
 
-::::: panel-tabset
+:::: panel-tabset
 ### Windows PC
 
 1.  If you have a previous R installation, please uninstall the following software from your PC if you have it:
-    -   R
-    -   Rtools
-    -   RStudio
+    - R
+    - Rtools
+    - RStudio
 2.  Install R
-    -   Go to <https://cran.r-project.org/bin/windows/base/>
-    -   Click **Download R-4.6.1 for Windows**
-    -   Open the installer and follow the instructions while keeping the default options
+    - Go to <https://cran.r-project.org/bin/windows/base/>
+    - Click **Download R-4.6.1 for Windows**
+    - Open the installer and follow the instructions while keeping the default options
 3.  Install RStudio
-    -   Go to <https://posit.co/download/rstudio-desktop/>, ignore the "install R" stuff (you've done that already). In the table of RStudio installers, find the one for your operating system and download it.\
-    -   Open the installer and follow the instructions while keeping the default options.
+    - Go to <https://posit.co/download/rstudio-desktop/>, ignore the "install R" stuff (you've done that already). In the table of RStudio installers, find the one for your operating system and download it.\
+    - Open the installer and follow the instructions while keeping the default options.
 
 ### Apple macOS PC
 
 1.  If you have a previous R installation, please uninstall the following software from your PC if you have it:
-    -   R
-    -   RStudio
+    - R
+    - RStudio
 2.  Install R
-    -   Check which Apple PC you have. On the top-left of your screen click the Apple logo, click About This Mac, note what the Processor line says.
-    -   Go to <https://cran.r-project.org/bin/macosx/> and download:
-        -   `R-4.6.1-arm64.pkg` if you have an Apple silicon arm64 macOS PC.
-        -   `R-4.6.1-x86_64.pkg` if you have an Intel-based macOS PC
-    -   Open the installer and follow the instructions while keeping the default options.
+    - Check which Apple PC you have. On the top-left of your screen click the Apple logo, click About This Mac, note what the Processor line says.
+    - Go to <https://cran.r-project.org/bin/macosx/> and download:
+      - `R-4.6.1-arm64.pkg` if you have an Apple silicon arm64 macOS PC.
+      - `R-4.6.1-x86_64.pkg` if you have an Intel-based macOS PC
+    - Open the installer and follow the instructions while keeping the default options.
 3.  Install RStudio
-    -   Go to <https://posit.co/download/rstudio-desktop/>, ignore the "install R" stuff (you've done that already). In the table of RStudio installers, find the one for your operating system and download it.\
-    -   Open the installer and follow the instructions while keeping the default options.
-    
-    
+    - Go to <https://posit.co/download/rstudio-desktop/>, ignore the "install R" stuff (you've done that already). In the table of RStudio installers, find the one for your operating system and download it.\
+    - Open the installer and follow the instructions while keeping the default options.
+
 <!-- 4. (Optional) Install XQuartz -->
+
 <!--     -   Download XQuartz: <https://www.xquartz.org/> -->
+
 <!--     -   Open the installer and follow the instructions while keeping the default options -->
 
 ### Chromebooks/Ipads etc
 
 Installing R or RStudio on Ipads is not possible, and on Chromebooks it requires quite a lot of work. 
+Instead, for your work on the statistics courses in the psychology department, you can use RStudio on the PPLS Server:
 
 <!-- ::: {.callout-important icon="false"} -->
+
 <!-- #### During week 1 of the course -->
 
 <!-- In your first week of DAPR2/3/USMR, you should access the RStudio Server provided by Noteable. To access it follow the steps below: -->
 
 <!-- a.  Go to the course LEARN page -->
+
 <!-- b.  Scroll to the bottom of the LEARN page -->
+
 <!-- c.  Click "RStudio for Chromebook/Ipad Users (Noteable)" -->
+
 <!-- d.  Select "RStudio" from the dropdown menu -->
+
 <!-- e.  Click "Start" -->
+
 <!-- ::: -->
 
-Instead, for your work on the statistics courses in the psychology department, you can use RStudio on the PPLS Server:  
 
-1.  Log in to [EASE](https://www.ease.ed.ac.uk/) using your university UUN and password
+**First Time:** Click [here](https://rstudio.ppls.ed.ac.uk/setpass){target="_blank"}, log-in with your Uni account, and then set your RStudio password.  
 
-2.  Access the server from <https://rstudio.ppls.ed.ac.uk>.
+**To access:** Go to <https://rstudio.ppls.ed.ac.uk/> 
 
-**If that didn't work:**
+**Forgot your password?:** If you ever need to reset your password, simply click [here](https://rstudio.ppls.ed.ac.uk/setpass) and set it again.  
 
-Please fill out [this form](https://forms.office.com/r/Pc5aqhyveE) and wait for an email from us with instructions.
+**Don't seem to have access?** Complete [this sign-up form](https://forms.office.com/r/Pc5aqhyveE) and wait for an email from us (this can take up to 3 working days). Once you receive it, try setting your password and logging in again as detailed above.  
 
+:::
 
 ## B. Updating R and RStudio
 
@@ -169,12 +177,13 @@ If you use a Windows PC and are trying to install packages which are not on CRAN
 
 ## History
 
--   Last updated by JK in September 2026 for R version 4.6.1
--   Last updated by UN in September 2025 for R version 4.5.1
--   Last updated by UN in May 2024 for R version 4.4.0
--   Last updated by UN in September 2023 for R version 4.3.1
--   Last updated by UN in November 2022 for R version 4.2.2
--   Last updated by UN in July 2022 for R version 4.2.1
+- Last updated by JK in September 2026 for R version 4.6.1
+- Last updated by UN in September 2025 for R version 4.5.1
+- Last updated by UN in May 2024 for R version 4.4.0
+- Last updated by UN in September 2023 for R version 4.3.1
+- Last updated by UN in November 2022 for R version 4.2.2
+- Last updated by UN in July 2022 for R version 4.2.1
 
 Department of Psychology\
 The University of Edinburgh
+::::
